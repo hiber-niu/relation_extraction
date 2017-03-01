@@ -1,0 +1,149 @@
+RELATION	call	score	entityb	entitya	martin	luther	king
+RELATION	parliamentari	caus	entitya	entityb	protector	gerard
+NO_RELATION	entitya	novel	entityb	first	publish
+RELATION	film	begin	entitya	entityb	's	arriv	power
+RELATION	kohl	soviet	leader	entityb	entitya	period	time
+RELATION	reput	hidden	entityb	's	troop	entitya	nearbi	boscobel	wood
+NO_RELATION	entitya	passion	play	entityb	dramat	stori	jesu
+RELATION	use	presid	entityb	deliv	entitya	consecr
+RELATION	migrat	call	entitya	mark	begin	entityb	's	reign	secular
+NO_RELATION	entitya	scienc	fiction	novel	entityb	first	publish	complet	form
+RELATION	king	's	side	entitya	attach	entityb	whose	niec	marri
+RELATION	anniversari	entityb	's	entitya	civil	war	institut
+RELATION	sourc	marri	entityb	one	year	entitya	though
+RELATION	support	entityb	lead-up	entitya
+RELATION	argument	presid	entityb	entitya	said
+NO_RELATION	entitya	play	entityb	neo-brechtian
+NO_RELATION	entitya	satir	novel	entityb	ostens	group
+RELATION	entitya	entityb	resolv	govern
+NO_RELATION	entitya	novel	entityb	first	publish	1981..
+RELATION	18.	goulden	present	entityb	deliv	entitya	heard	speech
+RELATION	civil	war	u.s.	presid	entityb	pictur	deliv	entitya	dedic
+NO_RELATION	entitya	scienc	fiction	novel	entityb	written	heritag	univers
+RELATION	afb	frequent	deploy	entityb	entitya	three	squadron	disband
+RELATION	civil	war	u.s.	presid	entityb	deliv	entitya	dedic	ceremoni
+RELATION	group	membership	entitya	follow	entityb	decid	crop	hair
+NO_RELATION	entitya	scienc	fiction	novel	author	entityb	first	publish	august
+RELATION	inspir	entityb	's	entitya	goldmark	's	composit
+NO_RELATION	entitya	written	entityb	1660,	full-blown
+RELATION	built	properti	bought	entityb	one	men	involv	entitya	guy	fawk	stonor
+RELATION	bad	present	practic	use	entityb	's	famou	entitya	norvig	one
+NO_RELATION	entitya	novel	entityb	first	novel
+RELATION	socialist	republ	entityb	entitya	yugoslav	peopl	's	armi
+NO_RELATION	entitya	scienc	fiction	novel	entityb	kathryn	h.	kidd
+RELATION	interced	behalf	entityb	attempt	make	amend	follow	violat	entitya	abu	sufyan	also	ask
+RELATION	south	guantanamo	bay	entityb	entitya	unsuccess	invas
+NO_RELATION	entitya	play	written	entityb	adapt	novel
+RELATION	form	english	polit	leader	entityb	17th	centuri	entitya	name	came
+NO_RELATION	entitya	play	written	entityb	play
+RELATION	fought	sieg	entityb	entitya	award
+RELATION	lead	parliamentarian	entitya	work	close	entityb	play	part
+NO_RELATION	entitya	first	novel	written	entityb	first	novel
+RELATION	gener	william	howe	seiz	entityb	peninsula	entitya	american	fell	back
+NO_RELATION	entitya	satir	novel	entityb	ostens	group
+RELATION	year	entitya	knight	allow	entityb	slight	entir	castl
+RELATION	due	polici	entityb	see	entitya	glasnost
+NO_RELATION	entitya	book	entityb	first	publish	1934.dobri
+RELATION	present	gettysburg	entityb	deliv	entitya	goulden	heard
+RELATION	athen	entityb	entitya	american	constitution
+RELATION	spanish	provinc	northestern	entityb	entitya	includ	present-day	tamaulipa
+RELATION	includ	shoe	thrown	entityb	give	entitya	last	air
+RELATION	col	abercrombi	arriv	entityb	entitya	kill
+RELATION	hijra-40	ah	entityb	year	entitya	ah
+RELATION	islam	begin	around	time	entityb	follow	took	flight	entitya	citi
+NO_RELATION	entitya	scienc	fiction	novel	entityb	plot	revolv	around
+RELATION	reinforc	garrison	entityb	town	entitya	govern
+RELATION	illustr	version	entitya	entityb	american
+RELATION	kingdom	itali	entityb	entitya	1866,	part
+RELATION	excerpt	u.s.	presid	entityb	's	entitya
+RELATION	cromwel	other	assert	entityb	futur	architect	entitya	includ	hampden	may
+RELATION	fought	entityb	entitya	follow	end
+NO_RELATION	entitya	play	entityb	woman	whose
+RELATION	first	sentenc	entityb	's	entitya	four	score
+NO_RELATION	entitya	novel	entityb	first	publish
+RELATION	emigr	entitya	entityb	origin	follow
+RELATION	time	lord	protector	entityb	depos	monarchi	entitya	citi	oxford
+RELATION	met	presid	entityb	attend	entitya	person
+RELATION	carlton	's	naval	squadron	entityb	entitya	octob	1776,
+RELATION	medina	entitya	entityb	decid	send	letter
+RELATION	push	coloni	entityb	entitya	onto	opposit	side
+NO_RELATION	entitya	play	entityb	henri	chettl
+NO_RELATION	entitya	19th-centuri	realist	novel	entityb	call
+RELATION	next	month	cousin	entityb	help	organ	entitya	influenti	women	's
+NO_RELATION	entitya	music	music	entityb	lyric	jame	racheff
+RELATION	medina	prior	entitya	travel	prophet	entityb	struggl	non-viol	oppressor
+RELATION	involv	entitya	includ	entityb	becom	de	facto
+RELATION	accept	entityb	entitya	's	high	time
+NO_RELATION	entitya	play	entityb	premier	london
+RELATION	appoint	lord	chancellor	entityb	entitya	posit	somewhat
+NO_RELATION	entitya	novel	entityb	erewhon	may	also	refer
+NO_RELATION	entitya	book	written	entityb	koyukuk	river	area
+RELATION	read	entityb	's	famou	entitya	open	dialogu
+RELATION	divis	base	entityb	entitya	2000.	follow	order
+RELATION	castl	lane	entityb	respons	destruct	entitya
+RELATION	power	coincid	entityb	advent	entitya	glasnost	mahkamov
+RELATION	celebr	150th	anniversari	entityb	's	entitya	martel	chair
+NO_RELATION	entitya	entityb	edit	page
+RELATION	within	year	entityb	's	parliamentarian	fresh	victori	entitya	came	perth
+NO_RELATION	entitya	one-act	play	written	entityb	premier
+NO_RELATION	entitya	scienc	fiction	short	stori	entityb	first	publish
+NO_RELATION	entitya	novel	entityb	adapt	novel
+RELATION	war	u.	s.	presid	entityb	deliv	entitya	militari	cemeteri	dedic
+RELATION	ceremoni	u.s.	presid	entityb	deliv	entitya	addit
+NO_RELATION	entitya	scienc	fiction	novel	entityb	plot	revolv	around
+RELATION	battl	gettysburg	entitya	presid	entityb	speech	novemb
+RELATION	open	entityb	's	entitya	gettysburg	address	abraham	lincoln
+NO_RELATION	entitya	book	written	entityb	koyukuk	river	area
+RELATION	near	puerta	del	sol	entityb	entitya	depict	one
+RELATION	1776..	fall	entityb	entitya	east	hampton	port
+RELATION	seri	entityb	assassin	entitya	halt
+NO_RELATION	entitya	issu	novemb	1,	1956,	encycl	entityb	renew	request	prayer
+RELATION	coastal	water	entityb	entitya	unit	also	carri
+NO_RELATION	entitya	collect	assort	remark	entityb	contain	sever	discuss
+RELATION	new	battlefield	cemeteri	heard	entityb	's	292-word	dedic	speech	known	entitya	gettysburg
+NO_RELATION	entitya	play	written	entityb	adapt	novel
+RELATION	near	end	entitya	lead	victori	entityb	execut	king
+RELATION	german	counter-attack	entityb	known	entitya	accompani	alli
+RELATION	fought	entitya	entityb	's	scottish	campaign
+RELATION	durham	crush	entityb	entitya	crew	also	furnish
+NO_RELATION	entitya	play	entityb	life
+RELATION	hay	draft	entitya	entityb	's	handwrit
+RELATION	read	excerpt	entityb	's	great	document	includ	entitya	lincoln	portrait	written
+RELATION	pericl	funer	orat	entityb	's	famou	speech	entitya	garri	will	lincoln
+NO_RELATION	entitya	19th-centuri	realist	novel	entityb	call
+RELATION	soviet	state	entityb	proclaim	entitya	1980
+RELATION	near	hrvatska	dubica	central	entityb	entitya	octob	1991,
+NO_RELATION	entitya	novel	entityb	;peopl	dan	mcteagu
+RELATION	culmin	entitya	protector	entityb	signific	swing
+RELATION	earli	reign	entityb	entitya	came	age
+RELATION	bridg	partial	rebuilt	entityb	blew	two	arch	entitya	prevent	king	charl
+RELATION	fulcrum	entitya	armi	entityb	earl	derbi
+RELATION	entityb	's	entitya	among
+RELATION	set	entityb	entitya	promulg	first	detail	written
+RELATION	sabotag	soviet	leader	entityb	's	polici	liber	reform	known	entitya	karen	dawisha	bruce
+NO_RELATION	entitya	novel	entityb	book	examin
+NO_RELATION	entitya	book	book	written	entityb	publish	1901.	rabbi
+RELATION	age	entityb	's	entitya	given	lincoln	left
+NO_RELATION	entitya	play	written	entityb	adapt	novel
+RELATION	import	part	entitya	oper	base	entityb	reput
+NO_RELATION	entitya	novel	entityb	billi	liar	may	also
+RELATION	project	commemor	entitya	given	entityb	four	month	battl
+RELATION	parliamentari	caus	entitya	draw	close	entityb	marri	cromwel	's	third
+RELATION	prior	entitya	travel	prophet	entityb	struggl	non-viol	oppressor
+NO_RELATION	entitya	book	book	written	entityb	publish	1901.	rabbi
+RELATION	captur	cervant	entityb	entitya	northern	luzon
+NO_RELATION	entitya	opera	text	entityb	music	johann	christoph
+RELATION	histori	especi	entitya	major	work	includ	biographi	entityb	two	volum
+RELATION	instrument	apparatu	entitya	yongnian	lifa	calendar	entityb	jiaoyao	xulun
+NO_RELATION	entitya	scienc	fiction	novel	entityb	first	publish	complet	form
+RELATION	convert	soon	entityb	's	entitya	time
+NO_RELATION	entitya	two-person	play	entityb	depict	john	barrymor
+NO_RELATION	entitya	book	entityb	work
+NO_RELATION	entitya	novel	entityb	earthlight	may	also	refer
+RELATION	susan	b.	anthoni	entityb	analyz	influenc	led	entitya	women	's	right
+NO_RELATION	entitya	play	written	entityb	1573,	repres
+RELATION	upon	give	entitya	1863,	entityb	present	william
+RELATION	19th	centuri	entityb	draft	entitya	cursiv	hand
+NO_RELATION	entitya	play	entityb	uncl	vanya	may	also
+RELATION	resent	refer	entityb	's	entitya	everi	time	write
+NO_RELATION	entitya	novel	entityb	first	publish	1932.reread

@@ -1,0 +1,149 @@
+RELATION	entityb	entitya	martin
+RELATION	entitya	entityb
+NO_RELATION	entitya	novel	entityb	first	publish
+RELATION	begin	entitya	1985	entityb	's	arriv
+RELATION	soviet	leader	entityb	entitya	period
+RELATION	hidden	entityb	's	troop	entitya	nearbi
+NO_RELATION	entitya	passion	play	entityb	dramat
+RELATION	presid	entityb	deliv	entitya
+RELATION	call	entitya	mark	begin	entityb	's	reign
+NO_RELATION	entitya	scienc	fiction	novel	entityb	first	publish
+RELATION	entitya	attach	entityb	whose
+RELATION	anniversari	entityb	's	entitya	civil
+RELATION	marri	entityb	one	year	entitya	though
+RELATION	support	entityb	lead-up	entitya
+RELATION	presid	entityb	entitya
+NO_RELATION	entitya	1988	play	entityb
+NO_RELATION	entitya	satir	novel	entityb	ostens
+RELATION	1863	entitya	entityb	resolv
+NO_RELATION	entitya	novel	entityb	first
+RELATION	present	entityb	deliv	entitya
+RELATION	u.s.	presid	entityb	pictur	deliv	entitya
+NO_RELATION	entitya	1991	scienc	fiction	novel	entityb	written
+RELATION	deploy	entityb	entitya	three
+RELATION	u.s.	presid	entityb	deliv	entitya
+RELATION	entitya	follow	entityb	decid
+NO_RELATION	entitya	scienc	fiction	novel	author	entityb	first
+RELATION	inspir	entityb	's	entitya	goldmark	's
+NO_RELATION	entitya	written	entityb	1660,
+RELATION	bought	entityb	one	men	involv	entitya	guy
+RELATION	practic	use	entityb	's	famou	entitya
+NO_RELATION	entitya	novel	entityb
+RELATION	republ	entityb	entitya	yugoslav
+NO_RELATION	entitya	scienc	fiction	novel	entityb	kathryn
+RELATION	behalf	entityb	attempt	make	amend	follow	violat	entitya	abu
+RELATION	bay	entityb	entitya
+NO_RELATION	entitya	2010	play	written	entityb	adapt
+RELATION	polit	leader	entityb	17th	centuri	entitya
+NO_RELATION	entitya	play	written	entityb
+RELATION	sieg	entityb	entitya
+RELATION	entitya	work	close	entityb
+NO_RELATION	entitya	1964	first	novel	written	entityb
+RELATION	seiz	entityb	peninsula	entitya
+NO_RELATION	entitya	satir	novel	entityb	ostens
+RELATION	entitya	knight	allow	entityb	slight
+RELATION	polici	entityb	see	entitya	glasnost
+NO_RELATION	entitya	book	entityb	first	publish
+RELATION	gettysburg	entityb	deliv	entitya
+RELATION	entityb	entitya
+RELATION	northestern	entityb	entitya
+RELATION	thrown	entityb	give	entitya
+RELATION	arriv	entityb	entitya
+RELATION	entityb	53	year	entitya	11
+RELATION	time	entityb	follow	took	flight	entitya
+NO_RELATION	entitya	1998	scienc	fiction	novel	entityb
+RELATION	garrison	entityb	town	entitya
+RELATION	version	entitya	entityb	1995
+RELATION	entityb	entitya	1866,
+RELATION	u.s.	presid	entityb	's	entitya
+RELATION	assert	entityb	futur	architect	entitya	includ
+RELATION	entityb	entitya	follow
+NO_RELATION	entitya	play	entityb
+RELATION	first	sentenc	entityb	's	entitya	four
+NO_RELATION	entitya	novel	entityb
+RELATION	entitya	entityb
+RELATION	lord	protector	entityb	depos	monarchi	entitya
+RELATION	met	presid	entityb	attend	entitya	person
+RELATION	squadron	entityb	entitya	11
+RELATION	entitya	entityb	decid	send
+RELATION	coloni	entityb	entitya	onto
+NO_RELATION	entitya	play	entityb	henri
+NO_RELATION	entitya	1876	19th-centuri	realist	novel	entityb
+RELATION	cousin	entityb	help	organ	entitya
+NO_RELATION	entitya	music	music	entityb	lyric
+RELATION	entitya	travel	prophet	entityb	struggl	non-viol
+RELATION	entitya	includ	entityb
+RELATION	entityb	entitya
+NO_RELATION	entitya	play	entityb	premier
+RELATION	chancellor	entityb	entitya
+NO_RELATION	entitya	novel	entityb	erewhon
+NO_RELATION	entitya	book	written	entityb
+RELATION	read	entityb	's	famou	entitya
+RELATION	base	entityb	entitya	2000.
+RELATION	entityb	respons	destruct	entitya
+RELATION	entityb	advent	entitya	glasnost
+RELATION	150th	anniversari	entityb	's	entitya	martel	chair
+NO_RELATION	entitya	entityb	1720	edit
+RELATION	year	entityb	's	parliamentarian	fresh	victori	entitya	came
+NO_RELATION	entitya	one-act	play	written	entityb
+NO_RELATION	entitya	scienc	fiction	short	stori	entityb	first
+NO_RELATION	entitya	1877	novel	entityb	adapt
+RELATION	s.	presid	entityb	deliv	entitya
+RELATION	u.s.	presid	entityb	deliv	entitya
+NO_RELATION	entitya	1998	scienc	fiction	novel	entityb
+RELATION	gettysburg	entitya	presid	entityb	speech
+RELATION	open	entityb	's	entitya	gettysburg	address
+NO_RELATION	entitya	book	written	entityb
+RELATION	sol	entityb	entitya
+RELATION	fall	entityb	entitya
+RELATION	entityb	assassin	entitya	halt
+NO_RELATION	entitya	issu	novemb	1,	1956,	encycl	entityb	renew
+RELATION	water	entityb	entitya
+NO_RELATION	entitya	collect	assort	remark	entityb
+RELATION	cemeteri	heard	entityb	's	292-word	dedic	speech	known	entitya	1863
+NO_RELATION	entitya	2010	play	written	entityb	adapt
+RELATION	entitya	lead	victori	entityb
+RELATION	entityb	known	entitya
+RELATION	entitya	entityb	's	scottish
+RELATION	crush	entityb	entitya
+NO_RELATION	entitya	1977	play	entityb
+RELATION	entitya	entityb	's	handwrit
+RELATION	excerpt	entityb	's	great	document	includ	entitya	lincoln
+RELATION	orat	entityb	's	famou	speech	entitya	garri
+NO_RELATION	entitya	1876	19th-centuri	realist	novel	entityb
+RELATION	soviet	state	entityb	proclaim	entitya	1980
+RELATION	central	entityb	entitya
+NO_RELATION	entitya	1899	novel	entityb	;peopl
+RELATION	entitya	protector	entityb
+RELATION	entityb	entitya	came
+RELATION	rebuilt	entityb	blew	two	arch	entitya	prevent
+RELATION	entitya	armi	entityb
+RELATION	entityb	's	entitya	1863
+RELATION	entityb	entitya	promulg
+RELATION	soviet	leader	entityb	's	polici	liber	reform	known	entitya	karen
+NO_RELATION	entitya	novel	entityb
+NO_RELATION	entitya	book	book	written	entityb	publish
+RELATION	age	entityb	's	entitya	given	lincoln
+NO_RELATION	entitya	2010	play	written	entityb	adapt
+RELATION	entitya	oper	base	entityb
+NO_RELATION	entitya	1959	novel	entityb	billi
+RELATION	commemor	entitya	given	entityb	four	month
+RELATION	entitya	draw	close	entityb	marri
+RELATION	entitya	travel	prophet	entityb	struggl	non-viol
+NO_RELATION	entitya	book	book	written	entityb	publish
+RELATION	cervant	entityb	entitya	northern
+NO_RELATION	entitya	opera	text	entityb	music
+RELATION	entitya	major	work	includ	biographi	entityb	two
+RELATION	entitya	yongnian	lifa	1678	calendar	entityb
+NO_RELATION	entitya	scienc	fiction	novel	entityb	first	publish
+RELATION	soon	entityb	's	entitya
+NO_RELATION	entitya	two-person	play	entityb	depict
+NO_RELATION	entitya	book	entityb
+NO_RELATION	entitya	1955	novel	entityb	earthlight
+RELATION	anthoni	entityb	analyz	influenc	led	entitya	women
+NO_RELATION	entitya	play	written	entityb	1573,
+RELATION	give	entitya	1863,	entityb	present
+RELATION	centuri	entityb	draft	entitya
+NO_RELATION	entitya	play	entityb	uncl
+RELATION	refer	entityb	's	entitya	everi	time
+NO_RELATION	entitya	novel	entityb	first

@@ -1,0 +1,149 @@
+RELATION	entityb	entitya	martin
+RELATION	entitya	entityb
+NO_RELATION	entitya	novel	entityb	first	published
+RELATION	beginning	entitya	entityb	's	arrival
+RELATION	soviet	leader	entityb	entitya	period
+RELATION	hidden	entityb	's	troops	entitya	nearby
+NO_RELATION	entitya	passion	play	entityb	dramatizing
+RELATION	president	entityb	deliver	entitya
+RELATION	called	entitya	marked	beginning	entityb	's	reign
+NO_RELATION	entitya	science	fiction	novel	entityb	first	published
+RELATION	entitya	attached	entityb	whose
+RELATION	anniversary	entityb	's	entitya	civil
+RELATION	married	entityb	one	year	entitya	though
+RELATION	supporter	entityb	lead-up	entitya
+RELATION	president	entityb	entitya
+NO_RELATION	entitya	play	entityb
+NO_RELATION	entitya	satirical	novel	entityb	ostensibly
+RELATION	entitya	entityb	resolving
+NO_RELATION	entitya	novel	entityb	first
+RELATION	present	entityb	delivered	entitya
+RELATION	u.s.	president	entityb	pictured	delivered	entitya
+NO_RELATION	entitya	science	fiction	novel	entityb	written
+RELATION	deployments	entityb	entitya	three
+RELATION	u.s.	president	entityb	delivers	entitya
+RELATION	entitya	followers	entityb	decided
+NO_RELATION	entitya	science	fiction	novel	author	entityb	first
+RELATION	inspired	entityb	's	entitya	goldmark	's
+NO_RELATION	entitya	written	entityb	1660,
+RELATION	bought	entityb	one	men	involved	entitya	guy
+RELATION	practices	using	entityb	's	famous	entitya
+NO_RELATION	entitya	novel	entityb
+RELATION	republic	entityb	entitya	yugoslav
+NO_RELATION	entitya	science	fiction	novel	entityb	kathryn
+RELATION	behalf	entityb	attempting	make	amends	following	violation	entitya	abu
+RELATION	bay	entityb	entitya
+NO_RELATION	entitya	play	written	entityb	adapted
+RELATION	political	leader	entityb	17th	century	entitya
+NO_RELATION	entitya	play	written	entityb
+RELATION	siege	entityb	entitya
+RELATION	entitya	worked	closely	entityb
+NO_RELATION	entitya	first	novel	written	entityb
+RELATION	seized	entityb	peninsula	entitya
+NO_RELATION	entitya	satirical	novel	entityb	ostensibly
+RELATION	entitya	knights	allowed	entityb	slight
+RELATION	policies	entityb	see	entitya	glasnost
+NO_RELATION	entitya	book	entityb	first	published
+RELATION	gettysburg	entityb	delivered	entitya
+RELATION	entityb	entitya
+RELATION	northestern	entityb	entitya
+RELATION	thrown	entityb	giving	entitya
+RELATION	arrived	entityb	entitya
+RELATION	entityb	years	entitya
+RELATION	time	entityb	followers	took	flight	entitya
+NO_RELATION	entitya	science	fiction	novel	entityb
+RELATION	garrison	entityb	town	entitya
+RELATION	version	entitya	entityb
+RELATION	entityb	entitya	1866,
+RELATION	u.s.	president	entityb	's	entitya
+RELATION	assert	entityb	future	architects	entitya	including
+RELATION	entityb	entitya	following
+NO_RELATION	entitya	play	entityb
+RELATION	first	sentence	entityb	's	entitya	four
+NO_RELATION	entitya	novel	entityb
+RELATION	entitya	entityb
+RELATION	lord	protector	entityb	deposed	monarchy	entitya
+RELATION	met	president	entityb	attended	entitya	person
+RELATION	squadron	entityb	entitya
+RELATION	entitya	entityb	decided	send
+RELATION	colonials	entityb	entitya	onto
+NO_RELATION	entitya	play	entityb	henry
+NO_RELATION	entitya	19th-century	realist	novel	entityb
+RELATION	cousin	entityb	helped	organize	entitya
+NO_RELATION	entitya	musical	music	entityb	lyrics
+RELATION	entitya	travel	prophet	entityb	struggled	non-violently
+RELATION	entitya	including	entityb
+RELATION	entityb	entitya
+NO_RELATION	entitya	play	entityb	premiered
+RELATION	chancellor	entityb	entitya
+NO_RELATION	entitya	novel	entityb	erewhon
+NO_RELATION	entitya	book	written	entityb
+RELATION	reading	entityb	's	famous	entitya
+RELATION	based	entityb	entitya	2000.
+RELATION	entityb	responsible	destruction	entitya	1642–51
+RELATION	entityb	advent	entitya	glasnost
+RELATION	150th	anniversary	entityb	's	entitya	martel	chairs
+NO_RELATION	entitya	entityb	edition
+RELATION	year	entityb	's	parliamentarians	fresh	victory	entitya	came
+NO_RELATION	entitya	one-act	play	written	entityb
+NO_RELATION	entitya	science	fiction	short	story	entityb	first
+NO_RELATION	entitya	novel	entityb	adaptations
+RELATION	s.	president	entityb	delivers	entitya
+RELATION	u.s.	president	entityb	delivered	entitya
+NO_RELATION	entitya	science	fiction	novel	entityb
+RELATION	gettysburg	entitya	president	entityb	speech
+RELATION	opening	entityb	's	entitya	gettysburg	address
+NO_RELATION	entitya	book	written	entityb
+RELATION	sol	entityb	entitya
+RELATION	fall	entityb	entitya
+RELATION	entityb	assassinated	entitya	halted
+NO_RELATION	entitya	issued	november	1,	1956,	encyclical	entityb	renewing
+RELATION	waters	entityb	entitya
+NO_RELATION	entitya	collection	assorted	remarks	entityb
+RELATION	cemetery	heard	entityb	's	292-word	dedication	speech	known	entitya
+NO_RELATION	entitya	play	written	entityb	adapted
+RELATION	entitya	leading	victory	entityb
+RELATION	entityb	known	entitya
+RELATION	entitya	entityb	's	scottish
+RELATION	crushed	entityb	entitya
+NO_RELATION	entitya	play	entityb
+RELATION	entitya	entityb	's	handwriting
+RELATION	excerpts	entityb	's	great	documents	including	entitya	lincoln
+RELATION	oration	entityb	's	famous	speech	entitya	garry
+NO_RELATION	entitya	19th-century	realist	novel	entityb
+RELATION	soviet	state	entityb	proclaimed	entitya	1980s
+RELATION	central	entityb	entitya
+NO_RELATION	entitya	novel	entityb	;people
+RELATION	entitya	protectorate	entityb
+RELATION	entityb	entitya	came
+RELATION	rebuilt	entityb	blew	two	arches	entitya	prevent
+RELATION	entitya	armies	entityb
+RELATION	entityb	's	entitya
+RELATION	entityb	entitya	promulgated
+RELATION	soviet	leader	entityb	's	policy	liberal	reforms	known	entitya	karen
+NO_RELATION	entitya	novel	entityb
+NO_RELATION	entitya	book	book	written	entityb	published
+RELATION	age	entityb	's	entitya	given	lincoln
+NO_RELATION	entitya	play	written	entityb	adapted
+RELATION	entitya	operational	base	entityb
+NO_RELATION	entitya	novel	entityb	billy
+RELATION	commemorate	entitya	given	entityb	four	months
+RELATION	entitya	drawing	close	entityb	married
+RELATION	entitya	travel	prophet	entityb	struggled	non-violently
+NO_RELATION	entitya	book	book	written	entityb	published
+RELATION	cervantes	entityb	entitya	northern
+NO_RELATION	entitya	opera	text	entityb	music
+RELATION	entitya	major	works	included	biography	entityb	two
+RELATION	entitya	yongnian	lifa	calendar	entityb
+NO_RELATION	entitya	science	fiction	novel	entityb	first	published
+RELATION	soon	entityb	's	entitya
+NO_RELATION	entitya	two-person	play	entityb	depicts
+NO_RELATION	entitya	book	entityb
+NO_RELATION	entitya	novel	entityb	earthlight
+RELATION	anthony	entityb	analyzed	influences	led	entitya	women
+NO_RELATION	entitya	play	written	entityb	1573,
+RELATION	giving	entitya	1863,	entityb	presented
+RELATION	century	entityb	drafted	entitya
+NO_RELATION	entitya	play	entityb	uncle
+RELATION	refer	entityb	's	entitya	every	time
+NO_RELATION	entitya	novel	entityb	first

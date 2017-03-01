@@ -1,0 +1,400 @@
+book.written_work.author	0	1	10	12	Divergence	(	1991	)	is	a	science	fiction	novel	by	Charles	Sheffield	written	in	the	Heritage	Universe
+book.written_work.author	0	1	10	12	Groogleman	is	a	young	adult	science	fiction	novel	written	by	Debra	Doyle	and	James	D.	Macdonald	and
+book.written_work.author	0	1	10	12	Hesperides	is	a	book	of	poetry	published	in	1648	by	Robert	Herrick	.	This	collection	of	1200
+book.written_work.author	0	1	10	12	Hitler	:	A	Short	Biography	is	a	short	biography	of	Adolf	Hitler	by	A.N.	Wilson	,	published
+book.written_work.author	0	1	10	12	Jejuri	is	the	name	of	a	series	of	poems	by	Arun	Kolatkar	in	1976,	an	Indian	poet
+book.written_work.author	0	1	10	12	Love-Lies-Bleeding	is	the	title	of	a	three	act	play	by	Don	DeLillo	.	It	is	his	third
+book.written_work.author	0	1	10	12	Luminous	is	a	collection	of	short	science	fiction	stories	by	Greg	Egan	.	.	Luminous	contains	the
+book.written_work.author	0	1	10	12	Luminous	is	a	collection	of	short	science	fiction	stories	by	Greg	Egan	.	.	Luminous	contains	the
+book.written_work.author	0	1	10	12	Marcovaldo	is	a	collection	of	twenty	short	stories	written	by	Italo	Calvino	.	It	was	initially	published
+book.written_work.author	0	1	10	12	Nino	is	a	children	's	novel	written	and	illustrated	by	Valenti	Angelo	.	It	tells	the	story
+book.written_work.author	0	1	10	12	Rewind	is	a	science	fiction	novel	written	in	1999	by	William	Sleator	.	It	explores	maturity	and
+book.written_work.author	0	1	10	12	Singer	(	2005	)	is	a	young-adult	fantasy	novel	by	Jean	Thesman	,	based	loosely	on	the
+book.written_work.author	0	1	10	12	Sirocco	is	a	play	,	in	four	acts	,	by	Noël	Coward	.	It	originally	opened	at
+book.written_work.author	0	1	10	12	Summerfolk	(	)	is	a	play	written	in	1903	by	Maxim	Gorky	.	Based	in	part	on
+book.written_work.author	0	1	10	12	Summertide	(	1990	)	is	a	science	fiction	novel	by	Charles	Sheffield	written	within	the	Heritage	Universe
+book.written_work.author	0	1	10	14	Sandkings	is	a	collection	of	science	fiction	short	stories	by	George	R.	R.	Martin	,	published	in	December	1981.
+book.written_work.author	0	1	10	14	Sandkings	is	a	collection	of	science	fiction	short	stories	by	George	R.	R.	Martin	,	published	in	December	1981.
+book.written_work.author	0	1	11	12	Epicurea	is	a	collection	of	texts	,	fragments	and	testimonies	by	Epicurus	composed	by	Hermann	Usener	in
+book.written_work.author	0	1	11	12	Policraticus	is	a	book	of	ethical	and	political	philosophy	written	by	John	of	Salisbury	around	1159.	Although
+book.written_work.author	0	1	11	13	Kesey	's	Garage	Sale	is	a	collection	of	essays	written	by	Ken	Kesey	.	The	book	features	the
+book.written_work.author	0	1	11	13	Madeline	and	the	Gypsies	is	an	illustrated	children	's	novel	by	Ludwig	Bemelmans	.	It	features	popular	children
+book.written_work.author	0	1	11	13	Miami	is	a	1987	book	of	social	and	political	analysis	by	Joan	Didion	.	.	Didion	begins	,
+book.written_work.author	0	1	11	13	Mirgorod	(	1835	)	is	a	collection	of	short	stories	by	Nikolai	Gogol	meant	to	be	a	sequel
+book.written_work.author	0	1	2	4	Loimologia	by	Nathaniel	Hodges	,	1720	edition	,	page
+book.written_work.author	0	1	3	6	Novels	written	by	William	Harrison	Ainsworth	.	.	Category	:	Works
+book.written_work.author	0	1	5	7	Argenis	is	a	book	by	John	Barclay	.	It	is	a	work
+book.written_work.author	0	1	5	7	Aura	is	a	novel	by	Carlos	Fuentes	,	first	published	in	1962
+book.written_work.author	0	1	5	7	Bauer	is	a	play	by	Lauren	Gunderson	that	has	its	world	premiere
+book.written_work.author	0	1	5	7	Capital	is	a	novel	by	John	Lanchester	,	published	by	Faber	and
+book.written_work.author	0	1	5	7	Chaturanga	is	a	novel	by	Rabindranath	Tagore	,	widely	considered	a	landmark
+book.written_work.author	0	1	5	7	Cimarron	is	a	novel	by	Edna	Ferber	,	published	in	1929	and
+book.written_work.author	0	1	5	7	Clarissa	is	a	novel	by	Samuel	Richardson	.	Clarissa	can	also	refer
+book.written_work.author	0	1	5	7	Coriolanus	is	a	tragedy	by	William	Shakespeare	.	Coriolanus	may	also	refer
+book.written_work.author	0	1	5	7	Democracy	is	a	play	by	Michael	Frayn	which	premiered	in	London	at
+book.written_work.author	0	1	5	7	Dobry	is	a	book	by	Monica	Shannon	first	published	in	1934.Dobry	(
+book.written_work.author	0	1	5	7	Erewhon	is	a	novel	by	Samuel	Butler	.	Erewhon	may	also	refer
+book.written_work.author	0	1	5	7	Eurydice	is	a	play	by	Sarah	Ruhl	which	retells	the	myth	of
+book.written_work.author	0	1	5	7	Extremities	is	a	play	by	William	Mastrosimone	that	was	first	performed	off
+book.written_work.author	0	1	5	7	Galilee	is	a	novel	by	Clive	Barker	,	published	in	1998.	It
+book.written_work.author	0	1	5	7	Germelshausen	is	a	story	by	Friedrich	Gerstäcker	concerning	a	cursed	village	that
+book.written_work.author	0	1	5	7	Gethsemane	is	a	play	by	David	Hare	.	It	premièred	at	the
+book.written_work.author	0	1	5	7	Gideon	,	a	play	by	Paddy	Chayefsky	,	is	a	seriocomic	treatment
+book.written_work.author	0	1	5	7	Greek	is	a	play	by	Steven	Berkoff	.	.	It	was	first
+book.written_work.author	0	1	5	7	Hallaig	is	a	poem	by	Sorley	MacLean	.	It	was	originally	written
+book.written_work.author	0	1	5	7	Harlequinade	is	a	play	by	Terence	Rattigan	.	.	The	play	was
+book.written_work.author	0	1	5	7	Harlequinade	is	a	play	by	Terence	Rattigan	.	.	The	play	was
+book.written_work.author	0	1	5	7	Harvest	is	a	novel	by	Jim	Crace	,	published	in	2013	by
+book.written_work.author	0	1	5	7	Harvest	is	a	play	by	Manjula	Padmanabhan	concerned	with	organ-selling	in	India
+book.written_work.author	0	1	5	7	Headhunter	is	a	novel	by	Timothy	Findley	.	It	was	first	published
+book.written_work.author	0	1	5	7	Heartland	is	a	novel	by	Daren	Shiau	,	first	published	by	SNP
+book.written_work.author	0	1	5	7	Hoodtown	is	a	novel	by	Christa	Faust	.	First	published	in	the
+book.written_work.author	0	1	5	7	Idioglossia	is	a	play	by	Mark	Handley	about	a	girl	who	grows
+book.written_work.author	0	1	5	7	Indians	is	a	play	by	Arthur	Kopit	.	.	At	its	core
+book.written_work.author	0	1	5	7	Jessamy	(	1967	)	by	Barbara	Sleigh	is	a	children	's	book
+book.written_work.author	0	1	5	7	Jogajog	is	a	novel	by	Rabindranath	Tagore	.	It	was	published	in
+book.written_work.author	0	1	5	7	Kepler	is	a	novel	by	John	Banville	,	first	published	in	1981..
+book.written_work.author	0	1	5	7	Kindertransport	is	a	play	by	Diane	Samuels	,	which	examines	the	life
+book.written_work.author	0	1	5	7	Luv	is	a	play	by	Murray	Schisgal	.	.	A	mix	of
+book.written_work.author	0	1	5	7	Monica	is	a	novel	by	Saunders	Lewis	,	written	in	the	Welsh
+book.written_work.author	0	1	5	7	Opticks	is	a	book	by	Isaac	Newton	.	Opticks	may	also	refer
+book.written_work.author	0	1	5	7	Piaf	is	a	play	by	Pam	Gems	that	focuses	on	the	life
+book.written_work.author	0	1	5	7	Roscoe	is	a	novel	by	William	Kennedy	which	was	published	in	2002,
+book.written_work.author	0	1	5	7	Sashka	is	a	poem	by	Mikhail	Lermontov	,	written	in	1835-1836	and
+book.written_work.author	0	1	5	7	Seaview	is	a	novel	by	Toby	Olson	.	It	received	the	1983
+book.written_work.author	0	1	5	7	Shadowland	is	a	novel	by	Peter	Straub	,	first	published	in	1980
+book.written_work.author	0	1	5	7	Spectre	is	a	novel	by	William	Shatner	,	co-written	with	Judith	and
+book.written_work.author	0	1	5	7	Storyteller	is	a	book	by	Amy	Thomson	published	in	2003	by	Ace
+book.written_work.author	0	1	5	7	Teechers	is	a	play	by	John	Godber	,	written	in	1984	and
+book.written_work.author	0	1	5	7	Ubique	is	a	poem	by	Rudyard	Kipling	about	the	Boer	War	,
+book.written_work.author	0	1	5	7	V	is	a	poem	by	Tony	Harrison	written	in	1985.	The	poem
+book.written_work.author	0	1	5	7	Wacousta	is	a	novel	by	John	Richardson	.	Published	in	1832,	it
+book.written_work.author	0	1	5	7	Whores	is	a	play	by	Lee	Blessing	.	.	Whores	features	Raoul
+book.written_work.author	0	1	5	8	Arborophilia	is	a	play	by	Jacob	M.	Appel	,	about	a	woman	whose
+book.written_work.author	0	1	5	8	Gulf	is	a	novella	by	Robert	A.	Heinlein	,	originally	published	as	a
+book.written_work.author	0	1	5	8	Wurzel-Flummery	is	a	play	by	A.	A.	Milne	,	which	was	performed	for
+book.written_work.author	0	1	5	9	Egmont	is	a	play	by	Johann	Wolfgang	von	Goethe	,	which	he	completed	in
+book.written_work.author	0	1	5	9	Kaalam	is	a	novel	by	M.	T.	Vasudevan	Nair	,	for	which	he	was
+book.written_work.author	0	1	5	9	Sandkings	is	a	novelette	by	George	R.	R.	Martin	,	published	in	the	August
+book.written_work.author	0	1	5	9	Sandkings	is	a	novelette	by	George	R.	R.	Martin	,	published	in	the	August
+book.written_work.author	0	1	6	8	Aminta	is	a	play	written	by	Torquato	Tasso	in	1573,	represented	during	a
+book.written_work.author	0	1	6	8	Antaeus	is	a	short	story	by	Borden	Deal	.	It	is	named	after
+book.written_work.author	0	1	6	8	Barrymore	is	a	two-person	play	by	William	Luce	which	depicts	John	Barrymore	a
+book.written_work.author	0	1	6	8	Barrymore	is	a	two-person	play	by	William	Luce	which	depicts	John	Barrymore	a
+book.written_work.author	0	1	6	8	Brothers	is	a	thriller	novel	by	William	Goldman	.	It	is	the	sequel
+book.written_work.author	0	1	6	8	Caligula	is	a	play	written	by	Albert	Camus	,	begun	in	1938	(
+book.written_work.author	0	1	6	8	Colomba	is	a	short	story	by	Prosper	Mérimée	which	first	appeared	on	1
+book.written_work.author	0	1	6	8	Colomba	is	a	short	story	by	Prosper	Mérimée	which	first	appeared	on	1
+book.written_work.author	0	1	6	8	Company	is	a	short	novel	by	Samuel	Beckett	,	written	in	English	and
+book.written_work.author	0	1	6	8	Crashlander	is	a	fix-up	novel	by	Larry	Niven	published	in	1994	(	ISBN
+book.written_work.author	0	1	6	8	Dodsworth	is	a	three-act	play	by	Sidney	Howard	based	on	the	1929	novel
+book.written_work.author	0	1	6	8	Dracula	is	an	1897	novel	by	Bram	Stoker	.	.	Dracula	may	also
+book.written_work.author	0	1	6	8	Dylan	is	a	1964	play	by	Sidney	Michaels	.	It	is	based	on
+book.written_work.author	0	1	6	8	Eragon	is	a	novel	written	by	Christopher	Paolini	.	Eragon	may	also	refer
+book.written_work.author	0	1	6	8	Faserland	is	the	debut	novel	by	Christian	Kracht	,	published	in	1995.	It
+book.written_work.author	0	1	6	8	Flyovers	is	a	stage	play	by	Jeffrey	Sweet	that	premiered	at	the	Victory
+book.written_work.author	0	1	6	8	Focus	is	a	1945	novel	by	Arthur	Miller	which	deals	with	issues	of
+book.written_work.author	0	1	6	8	Fudoki	is	a	2003	novel	by	Kij	Johnson	,	set	in	Japan	.
+book.written_work.author	0	1	6	8	Godspell	is	a	1970	play	by	John-Michael	Tebelak	.	Following	closely	on	the
+book.written_work.author	0	1	6	8	Greenland	is	a	1988	play	by	Howard	Brenton	.	It	is	a	neo-Brechtian
+book.written_work.author	0	1	6	8	Hamlet	is	a	tragic	play	by	William	Shakespeare	.	.	Hamlet	may	also
+book.written_work.author	0	1	6	8	Hopscotch	is	a	1975	novel	by	Brian	Garfield	,	in	which	a	CIA
+book.written_work.author	0	1	6	8	Jack-a-Boy	is	a	short	story	by	Willa	Cather	.	It	was	first	published
+book.written_work.author	0	1	6	8	Julia	is	a	1975	novel	by	Peter	Straub	.	It	was	the	author
+book.written_work.author	0	1	6	8	Keeler	is	a	play	written	by	Gill	Adams	,	which	has	a	plot
+book.written_work.author	0	1	6	8	Kyoko	is	a	1995	novel	by	Ryu	Murakami	.	The	book	tells	the
+book.written_work.author	0	1	6	8	Lakeboat	is	a	semi-autobiographical	play	by	David	Mamet	,	written	in	1970	and
+book.written_work.author	0	1	6	8	Lichtenstein	is	a	historical	novel	by	Wilhelm	Hauff	,	first	published	in	1826,
+book.written_work.author	0	1	6	8	Lighthouse	is	a	1972	novel	by	Eugenia	Price	,	the	third	and	last
+book.written_work.author	0	1	6	8	Liliom	is	a	1909	play	by	Ferenc	Molnár	.	Liliom	may	also	refer
+book.written_work.author	0	1	6	8	Lispeth	is	a	short	story	by	Rudyard	Kipling	.	It	was	first	published
+book.written_work.author	0	1	6	8	McTeague	is	an	1899	novel	by	Frank	Norris	.	;People	.	Dan	McTeague
+book.written_work.author	0	1	6	8	Mort	is	a	Discworld	novel	by	Terry	Pratchett	,	also	broadcast	as	a
+book.written_work.author	0	1	6	8	Nostromo	is	a	1904	novel	by	Joseph	Conrad	.	.	Nostromo	may	also
+book.written_work.author	0	1	6	8	Owlknight	is	a	1999	novel	by	Mercedes	Lackey	and	is	the	third	book
+book.written_work.author	0	1	6	8	Peter	is	a	short	story	by	Willa	Cather	.	It	was	first	published
+book.written_work.author	0	1	6	8	Piano	is	a	1990	play	by	Trevor	Griffiths	,	adapted	from	the	1977
+book.written_work.author	0	1	6	8	Pravda	is	a	satirical	play	by	David	Hare	and	Howard	Brenton	exploring	the
+book.written_work.author	0	1	6	8	Puffball	is	a	1980	novel	by	Fay	Weldon	,	which	was	made	into
+book.written_work.author	0	1	6	8	Sakkara	is	a	superhero	novel	by	Michael	Carroll	,	the	second	of	the
+book.written_work.author	0	1	6	8	Scruples	is	a	1978	novel	by	Judith	Krantz	.	A	direct	sequel	,
+book.written_work.author	0	1	6	8	Semi-Monde	is	a	play	written	by	Noël	Coward	in	1926,	but	not	produced
+book.written_work.author	0	1	6	8	Staircase	is	a	two-character	play	by	Charles	Dyer	about	an	aging	gay	couple
+book.written_work.author	0	1	6	8	Stevie	is	a	1977	play	by	Hugh	Whitemore	,	about	the	life	of
+book.written_work.author	0	1	6	8	Tarr	is	a	modernist	novel	by	Wyndham	Lewis	.	Tarr	may	also	refer
+book.written_work.author	0	1	6	8	Texaco	is	a	1992	novel	by	Patrick	Chamoiseau	,	a	French	author	who
+book.written_work.author	0	1	6	8	Tongues	is	a	1978	play	by	Sam	Shepard	and	Joseph	Chaikin	.	Tongues
+book.written_work.author	0	1	6	8	Torquemada	is	an	1869	play	by	Victor	Hugo	about	Tomás	de	Torquemada	and
+book.written_work.author	0	1	6	8	Towelhead	is	a	novel	written	by	Alicia	Erian	and	first	published	April	6,
+book.written_work.author	0	1	6	8	Vint	is	a	short	play	by	David	Mamet	,	adapted	from	a	short
+book.written_work.author	0	1	6	8	Wrecks	is	a	one-man	play	by	Neil	LaBute	,	that	was	commissioned	and
+book.written_work.author	0	1	6	9	Bhagyawati	is	an	1888	novel	by	Shardha	Ram	Phillauri	.	The	book	is	now
+book.written_work.author	0	1	6	9	Darkvision	is	a	fantasy	novel	by	Bruce	R.	Cordell	,	set	in	the	world
+book.written_work.author	0	1	6	9	Earthlight	is	a	1955	novel	by	Arthur	C.	Clarke	.	Earthlight	may	also	refer
+book.written_work.author	0	1	6	9	Earthlight	is	a	1955	novel	by	Arthur	C.	Clarke	.	Earthlight	may	also	refer
+book.written_work.author	0	1	6	9	Happyland	is	satirical	novel	written	by	J.	Robert	Lennon	about	a	town	in	upstate
+book.written_work.author	0	1	6	9	Limbo	is	a	poem	written	by	Samuel	Taylor	Coleridge	.	Most	of	its	text
+book.written_work.author	0	1	6	9	Ramona	is	an	1884	novel	by	Helen	Hunt	Jackson	.	Ramona	may	also	refer
+book.written_work.author	0	1	6	9	Star-Begotten	is	a	1937	novel	by	H.	G.	Wells	.	It	tells	the	story
+book.written_work.author	0	1	7	10	CIOPW	is	a	collection	of	artwork	by	E.	E.	Cummings	published	in	1931.	The	title
+book.written_work.author	0	1	7	10	Cromwell	is	an	1820	verse	tragedy	by	Honoré	de	Balzac	.	When	it	was	finished
+book.written_work.author	0	1	7	10	Fly-by-Night	is	a	children	's	novel	by	K.	M.	Peyton	originally	published	by	Oxford	University
+book.written_work.author	0	1	7	10	Gallia	is	an	1895	novel	written	by	Ménie	Muriel	Dowie	.	It	is	usually	categorised
+book.written_work.author	0	1	7	10	Heartsounds	is	an	autobiographical	book	written	by	Martha	Weinman	Lear	,	former	staff	writer	and
+book.written_work.author	0	1	7	10	Lovelock	is	a	science	fiction	novel	by	Orson	Scott	Card	and	Kathryn	H.	Kidd	.
+book.written_work.author	0	1	7	10	Nightwing	is	a	1977	thriller	novel	by	Martin	Cruz	Smith	,	who	adapted	it	for
+book.written_work.author	0	1	7	10	Sims	is	a	science	fiction	novel	by	F.	Paul	Wilson	that	explores	a	near-future	event
+book.written_work.author	0	1	7	10	Zorachus	is	a	fantasy	novel	written	by	Mark	E.	Rogers	,	a	science	fiction	and
+book.written_work.author	0	1	7	11	Supermind	is	a	science	fiction	novel	by	A.	E.	van	Vogt	first	published	in	complete	form
+book.written_work.author	0	1	7	8	Nigeria	.	Category	:	Federal	ministers	of	Nigeria	.	Minister
+book.written_work.author	0	1	7	8	Nigeria	.	Category	:	Federal	ministers	of	Nigeria	.	Minister	.	Category	:
+book.written_work.author	0	1	7	9	Abyssinia	is	a	musical	with	music	by	Ted	Kociolek	,	lyrics	by	James	Racheff
+book.written_work.author	0	1	7	9	Airswimming	is	the	first	play	written	by	Charlotte	Jones	.	Its	1997	premiere	at
+book.written_work.author	0	1	7	9	Andria	is	the	first	play	written	by	Niccolò	Machiavelli	,	published	in	the	period
+book.written_work.author	0	1	7	9	Audubon	is	a	non-fiction	book	written	by	Constance	Rourke	in	1936.	It	retroactively	received
+book.written_work.author	0	1	7	9	Backshot	is	a	science	fiction	novel	by	David	Sherman	and	Dan	Cragg	.	It
+book.written_work.author	0	1	7	9	Blindsighted	is	a	debut	novel	written	by	Karin	Slaughter	and	was	published	in	2001.
+book.written_work.author	0	1	7	9	Bliss	is	a	modernist	short	story	by	Katherine	Mansfield	first	published	in	1918.	It
+book.written_work.author	0	1	7	9	Blockade	is	a	1998	novel	written	by	Derek	Hansen	about	logging	in	Australia	.
+book.written_work.author	0	1	7	9	Demon	(	)	is	a	poem	by	Mikhail	Lermontov	,	written	in	several	versions
+book.written_work.author	0	1	7	9	Douglas	is	a	blank	verse	tragedy	by	John	Home	.	It	was	first	performed
+book.written_work.author	0	1	7	9	Dweller	is	a	2010	horror	novel	by	Jeff	Strand	.	The	novel	was	nominated
+book.written_work.author	0	1	7	9	Edmond	is	a	one-act	play	written	by	David	Mamet	.	It	premiered	at	the
+book.written_work.author	0	1	7	9	Façade	–	an	entertainment	comprising	poems	by	Edith	Sitwell	read	to	instrumental	accompaniments	composed
+book.written_work.author	0	1	7	9	Façade	is	a	series	of	poems	by	Edith	Sitwell	,	best	known	as	part
+book.written_work.author	0	1	7	9	Gitanjali	is	a	collection	of	poems	by	Rabindranath	Tagore	.	Geetanjali	may	also	refer
+book.written_work.author	0	1	7	9	Hatyapuri	1979	)	a	crime	novel	by	Satyajit	Ray	gets	its	title	from	a
+book.written_work.author	0	1	7	9	Hope	is	a	1995	spy	novel	by	Len	Deighton	.	It	is	the	second
+book.written_work.author	0	1	7	9	Logopandecteision	is	a	1653	book	by	Sir	Thomas	Urquhart	,	disingenuously	detailing	his	plans
+book.written_work.author	0	1	7	9	Mammoth	is	a	2005	novel	by	author	John	Varley	.	The	book	centers	around
+book.written_work.author	0	1	7	9	Manshape	is	a	science	fiction	novel	by	John	Brunner	.	It	was	first	published
+book.written_work.author	0	1	7	9	Millie	is	a	1913	short	story	by	Katherine	Mansfield	.	It	was	first	published
+book.written_work.author	0	1	7	9	Navohar	is	a	science	fiction	book	by	Hilari	Bell	.	.	Scientists	altered	the
+book.written_work.author	0	1	7	9	Nevermore	is	a	historical	mystery	novel	by	William	Hjortsberg	.	Harry	Houdini	joins	forces
+book.written_work.author	0	1	7	9	Paperweight	is	a	collection	of	writings	by	Stephen	Fry	,	first	published	in	the
+book.written_work.author	0	1	7	9	Paranoia	is	a	2004	novel	written	by	Joseph	Finder	and	published	in	the	United
+book.written_work.author	0	1	7	9	Perebendya	(	)	is	a	poem	by	Taras	Shevchenko	about	the	blind	itinerant	Ukrainian
+book.written_work.author	0	1	7	9	Polly	is	a	chick	lit	novel	by	Freya	North	about	a	young	Englishwoman	-
+book.written_work.author	0	1	7	9	Rash	is	a	2006	novel	written	by	Pete	Hautman	.	It	is	set	in
+book.written_work.author	0	1	7	9	Rockaby	is	a	short	one-woman	play	by	Samuel	Beckett	.	It	was	written	in
+book.written_work.author	0	1	7	9	Salvador	is	a	1983	book-length	essay	by	Joan	Didion	on	American	involvement	in	El
+book.written_work.author	0	1	7	9	Shekhina	is	a	book	of	photography	by	Leonard	Nimoy	of	Jewish	women	,	with
+book.written_work.author	0	1	7	9	Spinsters	is	the	1995	debut	novel	by	Pagan	Kennedy	.	It	was	shortlisted	for
+book.written_work.author	0	1	7	9	Sweetblood	is	a	young	adult	novel	by	Pete	Hautman	,	first	published	in	2003.
+book.written_work.author	0	1	7	9	Tangerine	is	a	young	adult	novel	by	Edward	Bloor	,	published	in	1997.Suki	Laka
+book.written_work.author	0	1	7	9	Telempath	is	a	science	fiction	novel	by	Spider	Robinson	set	in	a	dystopian	near-future
+book.written_work.author	0	1	7	9	Tightrope	is	a	children	's	novel	by	Gillian	Cross	,	published	in	1999.	It
+book.written_work.author	0	1	7	9	Timescoop	is	a	science	fiction	novel	by	John	Brunner	,	published	in	1969..	The
+book.written_work.author	0	1	7	9	Troy	is	a	young	adult	novel	by	Adéle	Geras	,	published	in	2000.	It
+book.written_work.author	0	1	7	9	Turbulence	is	a	children	's	novel	by	Jan	Mark	,	published	in	2005.	It
+book.written_work.author	0	1	7	9	Undone	is	a	novel	by	bestselling	author	Karin	Slaughter	which	combines	characters	from	her
+book.written_work.author	0	1	8	10	Afterplay	is	a	2002	one-act	play	play	by	Brian	Friel	.	It	is	centred	around
+book.written_work.author	0	1	8	10	Arrowsmith	is	a	fantasy	comic	book	by	writer	Kurt	Busiek	and	penciller	Carlos	Pacheco	,
+book.written_work.author	0	1	8	10	Athena	(	1995	)	is	a	novel	by	John	Banville	.	.	In	it	a
+book.written_work.author	0	1	8	10	Candy	is	a	2005	young	adult	novel	by	Kevin	Brooks	about	a	doomed	teenage	love
+book.written_work.author	0	1	8	10	Clay	is	a	children	's/young	adult	novel	by	David	Almond	,	published	in	2005.	It
+book.written_work.author	0	1	8	10	Core	is	a	science	fiction	novel	by	author	Paul	Preuss	.	First	published	in	August
+book.written_work.author	0	1	8	10	Creeps	is	a	young	adult	novel	written	by	Darren	Hynes	and	published	by	RazorBill	books
+book.written_work.author	0	1	8	10	Darwiniana	is	a	collection	of	essays	by	botanist	Asa	Gray	.	The	articles	both	defended
+book.written_work.author	0	1	8	10	Dragonfire	is	a	spy	thriller	novel	by	author	Andrew	Kaplan	,	published	by	Warner	Books
+book.written_work.author	0	1	8	10	Dragonwings	is	a	children	's	historical	novel	by	Laurence	Yep	,	published	by	Harper	amp
+book.written_work.author	0	1	8	10	Eleemosynary	is	a	1985	multi	act	play	by	Lee	Blessing	.	It	follows	the	relationships
+book.written_work.author	0	1	8	10	Europa	is	a	stream	of	consciousness	novel	by	Tim	Parks	,	first	published	in	1997.
+book.written_work.author	0	1	8	10	Fire	is	an	apocalyptic	science	fiction/horror	novel	by	Alan	Rodgers	,	published	in	1990	as
+book.written_work.author	0	1	8	10	Fossil	is	a	science	fiction	book	written	by	Hal	Clement	and	first	printed	in	November
+book.written_work.author	0	1	8	10	Kensho	is	a	science	fiction	novel	written	by	Dennis	Schmidt	published	in	1979.	It	is
+book.written_work.author	0	1	8	10	Manna	is	a	2003	science	fiction	essay	by	Marshall	Brain	that	explores	several	issues	in
+book.written_work.author	0	1	8	10	Neverness	is	a	science	fiction	novel	written	by	David	Zindell	and	published	in	1988.	The
+book.written_work.author	0	1	8	10	Norwood	is	the	first	novel	written	by	author	Charles	Portis	.	Originally	published	in	1966
+book.written_work.author	0	1	8	10	Permanence	is	a	2002	science	fiction	novel	by	Karl	Schroeder	.	.	The	novel	tells
+book.written_work.author	0	1	8	10	Polly	is	an	opera	by	with	text	by	John	Gay	and	music	by	Johann	Christoph
+book.written_work.author	0	1	8	10	Quantico	is	a	2005	science	fiction/thriller	novel	by	Greg	Bear	.	The	novel	concerns	a
+book.written_work.author	0	1	8	10	Raptor	is	a	1993	historical	novel	written	by	Gary	Jennings	.	.	Raptor	is	an
+book.written_work.author	0	1	8	10	Redshirts	is	a	science	fiction	comedic	novel	by	John	Scalzi	.	The	book	was	published
+book.written_work.author	0	1	8	10	Satori	is	a	science	fiction	novel	written	by	Dennis	Schmidt	.	It	is	the	third
+book.written_work.author	0	1	8	10	Skyscraper	is	the	first	full	length	play	by	David	Auburn	.	It	ran	Off-Broadway	in
+book.written_work.author	0	1	8	10	Spawn	is	a	1983	horror	novel	written	by	Shaun	Hutson	.	.	.	A	child
+book.written_work.author	0	1	8	10	Starswarm	is	a	1998	science	fiction	novel	by	Jerry	Pournelle	.	The	plot	revolves	around
+book.written_work.author	0	1	8	10	Starwolf	is	a	collection	of	three	novels	by	Edmond	Hamilton	featuring	heavy-worlder	Morgan	Chane	.
+book.written_work.author	0	1	8	10	Titan	is	a	science	fiction	novel	written	by	Ben	Bova	as	part	of	the	Grand
+book.written_work.author	0	1	8	10	Transcendence	(	1992	)	is	a	novel	by	Charles	Sheffield	in	the	Heritage	Universe	series
+book.written_work.author	0	1	8	10	Westworld	is	a	1973	science	fiction	film	by	Michael	Crichton	.	Westworld	may	also	refer
+book.written_work.author	0	1	8	10	Wiggle	is	a	children	's	picture	book	by	Doreen	Cronin	and	is	illustrated	by	Scott
+book.written_work.author	0	1	8	10	Zettel	is	a	collection	of	assorted	remarks	by	Ludwig	Wittgenstein	.	It	contains	several	discussions
+book.written_work.author	0	1	8	11	Anne	,	first	published	in	1880	by	author	Constance	Fenimore	Woolson	,	is	a	work	of
+book.written_work.author	0	1	8	11	Battleborn	is	a	2012	short	story	collection	by	Claire	Vaye	Watkins	.	The	book	won	the
+book.written_work.author	0	1	8	11	Cusp	is	a	science	fiction	novel	written	by	Robert	A.	Metzger	,	in	the	category	of
+book.written_work.author	0	1	8	11	Elsewhen	(	1941	)	is	a	novella	by	Robert	A.	Heinlein	,	concerning	time	travel	and
+book.written_work.author	0	1	8	11	Habibi	is	a	1997	young	adult	novel	by	Naomi	Shihab	Nye	.	It	tells	the	story
+book.written_work.author	0	1	8	11	Hunter	is	a	1999	action/science	fiction/thriller	novel	by	James	Byron	Huggins	.	Nathaniel	Hunter	could	track
+book.written_work.author	0	1	8	11	Misalliance	is	a	play	written	in	1909–1910	by	George	Bernard	Shaw	.	.	Misalliance	takes	place
+book.written_work.author	0	1	8	11	Nanny	is	a	science	fiction	short	story	by	Philip	K.	Dick	,	first	published	in	1955
+book.written_work.author	0	1	8	11	Shabdangal	(	1947	)	is	a	novel	by	Vaikom	Muhammad	Basheer	which	talks	about	war	,
+book.written_work.author	0	1	9	11	Durruti	:	The	People	Armed	is	a	book	by	Abel	Paz	.	Paz	was	a	famous
+book.written_work.author	0	1	9	11	EarthWeb	is	a	science	fiction	novel	written	by	author	Marc	Stiegler	,	and	released	in	May
+book.written_work.author	0	1	9	11	Marlowe	is	a	1981	musical	with	a	book	by	Leo	Rost	,	lyrics	by	Rost	and
+book.written_work.author	0	1	9	11	Northworld	is	a	1990	militaristic	science	fiction	novel	by	David	Drake	set	in	a	time	when
+book.written_work.author	0	1	9	11	Pharmakon	is	a	2008	novel	written	by	the	author	Dirk	Wittenborn	.	Though	fictional	,	it
+book.written_work.author	0	1	9	11	Saddam	:	The	Secret	Life	is	a	book	by	Con	Coughlin	.	It	tells	the	story
+book.written_work.author	0	1	9	11	Skinnybones	is	a	1982	children	's	novel	written	by	Barbara	Park	.	It	is	Park	's
+book.written_work.author	0	1	9	11	Stones	is	the	second	book	of	short	stories	by	Timothy	Findley	.	It	was	first	published
+book.written_work.author	0	1	9	11	Vilcabamba	is	a	2010	science	fiction	short	story	by	Harry	Turtledove	,	notable	both	for	its
+book.written_work.author	0	1	9	11	Vitals	is	a	2002	science	fiction/techno-thriller	novel	written	by	Greg	Bear	,	and	nominated	for	a
+book.written_work.author	0	1	9	11	Wonderstruck	is	a	historical-fiction	book	written	and	illustrated	by	Brian	Selznick	and	published	by	Scholastic	Press
+book.written_work.author	0	2	10	12	Annie	Allen	is	a	book	of	poetry	published	by	poet	Gwendolyn	Brooks	which	was	published	in	1949,
+book.written_work.author	0	2	10	12	Black	Chiffon	is	a	play	in	two	acts	written	by	Lesley	Storm	.	Starring	Flora	Robson	,
+book.written_work.author	0	2	10	12	David	Boring	is	a	comic	series	and	graphic	novel	by	Daniel	Clowes	.	It	was	originally	serialized
+book.written_work.author	0	2	10	12	Forbidden	Area	is	a	1956	Cold	War	thriller	novel	by	Pat	Frank	.	Its	plot	involves	Soviet
+book.written_work.author	0	2	10	12	Forever	Amber	(	1944	)	is	a	romance	novel	by	Kathleen	Winsor	set	in	17th-century	England	.
+book.written_work.author	0	2	10	12	Imperial	Palace	is	the	last	and	longest	novel	by	author	Arnold	Bennett	.	Published	in	1930,	the
+book.written_work.author	0	2	10	12	Laura	Blundy	(	2000	)	is	a	historical	novel	by	Julie	Myerson	set	in	Victorian	London	.
+book.written_work.author	0	2	10	12	Mildred	Keith	is	a	children	's	novel	series	written	by	Martha	Finley	(	1828-1909	)	between	1876
+book.written_work.author	0	2	10	12	My	Master	(	book	)	,	a	book	written	by	Swami	Vivekananda	and	published	in	1901.	Rabbi
+book.written_work.author	0	2	10	12	No-No	Boy	(	2010	)	is	a	play	written	by	Ken	Narasaki	adapted	from	the	novel	of
+book.written_work.author	0	2	10	12	Patriot	Games	is	the	title	of	a	1987	novel	by	Tom	Clancy	.	Patriot	Game	(	s
+book.written_work.author	0	2	10	12	Piggie	Pie	is	a	1995	children	's	picture	book	by	Margie	Palatini	.	.	Gritch	the	Witch
+book.written_work.author	0	2	10	12	Red	Thunder	is	a	2003	science	fiction	novel	written	by	John	Varley	.	The	novel	is	an
+book.written_work.author	0	2	10	12	Slave	Ship	is	a	1956	short	science	fiction	novel	by	Frederik	Pohl	,	originally	serialized	in	Galaxy
+book.written_work.author	0	2	10	12	True	Love	is	also	a	science	fiction	short	story	by	Isaac	Asimov	.	It	was	first	published
+book.written_work.author	0	2	10	13	Innocent	Blood	(	1980	)	is	a	mystery	novel	by	P.	D.	James	.	.	A	young	woman
+book.written_work.author	0	2	10	13	Laetamur	Admodum	issued	November	1,	1956,	is	an	encyclical	of	Pope	Pius	XII	renewing	his	request	for	prayers
+book.written_work.author	0	2	10	14	Tuf	Voyaging	is	a	1986	science	fiction	fix-up	novel	by	George	R.	R.	Martin	,	first	published	in	hardcover
+book.written_work.author	0	2	11	13	Bad	Monkeys	(	2007	)	is	a	psychological	thriller	novel	by	Matt	Ruff	.	.	The	beginning	of
+book.written_work.author	0	2	11	13	Bad	Monkeys	(	2007	)	is	a	psychological	thriller	novel	by	Matt	Ruff	.	.	The	beginning	of
+book.written_work.author	0	2	11	13	De	Perfil	(	Profile	view	)	is	a	1966	novel	by	José	Agustín	.	Like	his	first	novel
+book.written_work.author	0	2	11	13	Enemy	Combatant	is	a	book	written	by	a	British	Muslim	,	Moazzam	Begg	,	and	co-written	by	Victoria
+book.written_work.author	0	2	11	13	Field	Work	(	1979	)	is	the	fifth	poetry	collection	by	Seamus	Heaney	,	who	received	the	1995
+book.written_work.author	0	2	11	13	Forgotten	Fire	(	2002	)	is	a	young	adult	novel	by	Adam	Bagdasarian	.	It	became	a	National
+book.written_work.author	0	2	11	13	George	Orwell	"	Good	Bad	Books	"	is	an	essay	by	George	Orwell	first	published	in	Tribune	on
+book.written_work.author	0	2	11	13	George	Washington	's	World	is	a	children	's	history	book	by	Genevieve	Foster	.	The	first	edition	,
+book.written_work.author	0	2	11	13	Neutron	Star	is	a	collection	of	science	fiction	short	stories	by	Larry	Niven	,	published	in	April	1968.
+book.written_work.author	0	2	11	13	Platinum	Pohl	is	a	collection	of	thirty	science	fiction	stories	by	Frederik	Pohl	first	published	in	December	2005
+book.written_work.author	0	2	11	13	Sin	City	is	the	title	for	a	series	of	stories	by	Frank	Miller	,	told	in	comic	book
+book.written_work.author	0	2	11	13	The	Liquidator	(	1964	)	was	the	first	novel	written	by	John	Gardner	and	the	first	novel	in
+book.written_work.author	0	2	11	13	Turtle	Island	is	a	book	of	poems	and	essays	written	by	Gary	Snyder	in	1974.	Within	it	,
+book.written_work.author	0	2	11	13	Uncanny	Tales	is	a	collection	of	science	fiction	short	stories	by	Robert	Sheckley	.	It	was	first	published
+book.written_work.author	0	2	11	13	Windy	City	is	a	musical	with	a	book	and	lyrics	by	Dick	Vosburgh	and	music	by	Tony	Macaulay
+book.written_work.author	0	2	11	14	Datis	Nuperrime	(	1956	)	,	is	an	Papal	encyclical	of	Pope	Pius	XII	concerning	the	Soviet	invasion	of
+book.written_work.author	0	2	11	14	Doña	Perfecta	(	1876	)	is	a	19th-century	realist	novel	by	Benito	Pérez	Galdós	from	what	is	called	the
+book.written_work.author	0	2	11	14	Invicti	Athletae	(	May	16,	1957	)	is	an	encyclical	of	Pope	Pius	XII	to	the	Polish	bishops	and
+book.written_work.author	0	2	11	14	Luctuosissimi	Eventus	,	issued	October	28,	1956,	is	an	encyclical	of	Pope	Pius	XII	urging	public	prayers	for	peace
+book.written_work.author	0	2	11	14	No	Strings	is	a	1962	musical	drama	with	a	book	by	Samuel	A.	Taylor	and	words	and	music	by
+book.written_work.author	0	2	12	14	Cattail	Moon	(	1994	)	is	a	young	adult	novel	written	by	Jean	Thesman	.	Julia	Foster	gets	a
+book.written_work.author	0	2	12	14	Crumbling	Idols	is	a	collection	of	12	essays	written	and	completed	by	Hamlin	Garland	in	1894.	Garland	was	one
+book.written_work.author	0	2	12	14	Daniel	Defoe	.	The	full	original	title	of	this	1727	essay	by	Daniel	Defoe	was	"	Conjugal	Lewdness	or
+book.written_work.author	0	2	12	14	George	Washington	:	An	Initial	Biography	is	a	children	's	book	by	Genevieve	Foster	about	the	life	of	the
+book.written_work.author	0	2	12	14	Rogue	Saucer	is	a	Star	Trek	:	The	Next	Generation	novel	by	John	Vornholt	.	Rogue	Saucer	specifically	takes
+book.written_work.author	0	2	12	14	This	Lullaby	(	2002	)	is	a	young	adult	novel	written	by	Sarah	Dessen	.	.	Remy	is	an
+book.written_work.author	0	2	12	14	Virtual	Unrealities	is	a	collection	of	short	stories	by	science	fiction	author	Alfred	Bester	.	Published	in	1997	by
+book.written_work.author	0	2	12	14	White	Buildings	was	the	first	collection	(	1926	)	of	poetry	by	Hart	Crane	,	an	American	modernist	poet
+book.written_work.author	0	2	12	14	Zany	Afternoons	is	a	book	containing	a	collection	of	some	of	illustrator	Bruce	McCall	's	best	comic	paintings	to
+book.written_work.author	0	2	12	15	Empire	Star	is	the	name	ofEmpire	Star	,	a	1966	book	by	Samuel	R.	Delany	.	BSA	Empire	Star	,
+book.written_work.author	0	2	12	15	St	Mawr	is	a	short	novel	(	or	novella	)	written	by	D.	H.	Lawrence	.	It	was	first	published
+book.written_work.author	0	2	5	10	Dom	Casmurro	,	written	by	Joaquim	Maria	Machado	de	Assis	,	was	first	published	in
+book.written_work.author	0	2	5	7	Astraea	Redux	,	written	by	John	Dryden	in	1660,	is	a	full-blown
+book.written_work.author	0	2	6	8	American	Primitive	is	a	play	by	William	Gibson	about	the	lives	of	John
+book.written_work.author	0	2	6	8	Animal	Farm	is	a	novel	by	George	Orwell	.	It	may	also	refer
+book.written_work.author	0	2	6	8	Anna	Karenina	is	a	novel	by	Leo	Tolstoy	.	Anna	Karenina	may	also
+book.written_work.author	0	2	6	8	Bangkok	Haunts	is	a	novel	by	John	Burdett	,	first	published	in	2007..
+book.written_work.author	0	2	6	8	Better	Angel	is	a	novel	by	Forman	Brown	first	published	in	1933	under
+book.written_work.author	0	2	6	8	Carrie	Pilby	is	a	novel	by	Caren	Lissner	,	first	published	by	Red
+book.written_work.author	0	2	6	8	Coastal	Disturbances	is	a	play	by	Tina	Howe	,	which	premiered	Off-Broadway	in
+book.written_work.author	0	2	6	8	Daphne	Laureola	is	a	play	by	James	Bridie	about	a	young	Polish	refugee
+book.written_work.author	0	2	6	8	Darkness	Descending	(	2000	)	by	Harry	Turtledove	,	is	the	second	book
+book.written_work.author	0	2	6	8	David	Copperfield	is	a	novel	by	Charles	Dickens	.	David	Copperfield	may	also
+book.written_work.author	0	2	6	8	Dinosaur	Summer	is	a	novel	by	Greg	Bear	,	published	in	1998..	Tony
+book.written_work.author	0	2	6	8	Doctor	Copernicus	is	a	novel	by	John	Banville	,	first	published	in	1976.
+book.written_work.author	0	2	6	8	Dream	Girl	is	a	play	by	Elmer	Rice	.	.	At	its	core
+book.written_work.author	0	2	6	8	Elegiac	Stanzas	is	a	poem	by	William	Wordsworth	,	originally	published	in	Poems
+book.written_work.author	0	2	6	8	Elizabeth	Rex	is	a	play	by	Timothy	Findley	.	The	plot	involves	a
+book.written_work.author	0	2	6	8	Faith	Healer	is	a	play	by	Brian	Friel	about	the	life	of	faith
+book.written_work.author	0	2	6	8	Grace	Notes	is	a	novel	by	Bernard	MacLaverty	,	first	published	in	1997..
+book.written_work.author	0	2	6	8	Guarding	Hanna	is	a	novel	by	Miha	Mazzini	.	First	published	in	Slovenia
+book.written_work.author	0	2	6	8	Incredible	Adventures	is	a	collection	by	Algernon	Blackwood	,	comprising	four	novellas	and
+book.written_work.author	0	2	6	8	Internet	Invention	is	a	book	by	Gregory	Ulmer	.	The	book	describes	Ulmer
+book.written_work.author	0	2	6	8	Italian	Fever	is	1999	novel	by	Valerie	Martin	.	.	Part	romance	and
+book.written_work.author	0	2	6	8	Kajsa	Kavat	is	a	story	by	Astrid	Lindgren	about	a	little	girl	named
+book.written_work.author	0	2	6	8	Lemon	Sky	is	a	play	by	Lanford	Wilson	first	developed	at	the	Eugene
+book.written_work.author	0	2	6	8	Les	Misérables	is	a	novel	by	Victor	Hugo	.	It	may	also	refer
+book.written_work.author	0	2	6	8	Little	Dorrit	is	a	novel	by	Charles	Dickens	originally	published	in	installments	between
+book.written_work.author	0	2	6	8	London	Suite	is	a	play	by	Neil	Simon	,	consisting	of	four	one-act
+book.written_work.author	0	2	6	8	Lucy	Temple	is	a	novel	by	Susanna	Rowson	.	It	was	first	published
+book.written_work.author	0	2	6	8	Madame	Melville	is	a	play	by	Richard	Nelson	.	It	is	set	in
+book.written_work.author	0	2	6	8	Menagerie	Manor	was	a	book	by	Gerald	Durrell	,	published	in	1964.	The
+book.written_work.author	0	2	6	8	Miss	Julie	is	a	play	by	August	Strindberg	.	It	may	also	refer
+book.written_work.author	0	2	6	8	My	Autobiography	is	a	book	by	Charlie	Chaplin	,	first	published	by	Simon
+book.written_work.author	0	2	6	8	Natalie	Natalia	is	a	novel	by	Nicholas	Mosley	first	published	in	1971	about
+book.written_work.author	0	2	6	8	Orpheus	Descending	is	a	play	by	Tennessee	Williams	.	It	was	first	presented
+book.written_work.author	0	2	6	8	Patient	Grissel	is	a	play	by	Thomas	Dekker	,	Henry	Chettle	,	and
+book.written_work.author	0	2	6	8	Pedagogical	Sketchbook	is	a	book	by	Paul	Klee	.	It	is	based	on
+book.written_work.author	0	2	6	8	Peer	Gynt	is	a	play	by	Henrik	Ibsen	named	for	its	main	character
+book.written_work.author	0	2	6	8	Pluto	Rising	is	a	novel	by	Karen	Irving	(	ISBN	1-896095-95-X	)	.
+book.written_work.author	0	2	6	8	Rhys	Lewis	is	a	novel	by	Daniel	Owen	,	written	in	the	Welsh
+book.written_work.author	0	2	6	8	Shining	City	is	a	play	by	Conor	McPherson	,	set	in	Dublin	which
+book.written_work.author	0	2	6	8	Sin	Killer	is	a	novel	by	Larry	McMurtry	.	It	is	the	first
+book.written_work.author	0	2	6	8	Skeleton	Creek	is	a	novel	by	Patrick	Carman	,	the	first	novel	of
+book.written_work.author	0	2	6	8	Storming	Heaven	is	a	novel	by	Dale	Brown	published	in	1994.	Storming	Heaven
+book.written_work.author	0	2	6	8	Sugar	Blues	is	a	book	by	William	Dufty	that	was	released	in	1975
+book.written_work.author	0	2	6	8	Suicide	Bridge	is	a	novel	by	Iain	Sinclair	.	.	The	book	examines
+book.written_work.author	0	2	6	8	The	Forgotten	is	a	novel	by	Elie	Wiesel	,	published	in	1992	in
+book.written_work.author	0	2	6	8	The	Oath	is	a	novel	by	Elie	Wiesel	.	The	Oath	may	also
+book.written_work.author	0	2	6	8	The	Shepherd	is	a	poem	from	William	Blake	's	Songs	of	Innocence	(
+book.written_work.author	0	2	6	8	Uncle	Vanya	is	a	play	by	Anton	Chekhov	.	Uncle	Vanya	may	also
+book.written_work.author	0	2	6	8	Whitethorn	Woods	is	a	novel	by	Maeve	Binchy	.	It	was	published	in
+book.written_work.author	0	2	6	8	Youngblood	Hawke	is	a	novel	by	Herman	Wouk	,	which	was	adapted	into
+book.written_work.author	0	2	6	9	Baby	Island	is	a	novel	by	Carol	Ryrie	Brink	,	published	in	1937.	It
+book.written_work.author	0	2	6	9	Canadian	Mosaic	was	a	book	by	John	Murray	Gibbon	,	published	in	1938.	Gibbon
+book.written_work.author	0	2	6	9	Democratizing	Innovation	is	a	book	by	Eric	von	Hippel	.	It	describes	how	people
+book.written_work.author	0	2	6	9	Mirabile	Illud	is	an	encyclical	of	Pope	Pius	XII	on	the	crusade	of	prayer
+book.written_work.author	0	2	6	9	Saeculo	Exeunte	is	an	encyclical	of	Pope	Pius	XII	in	which	he	honors	Portugal
+book.written_work.author	0	2	6	9	Sempiternus	Rex	is	an	encyclical	of	Pope	Pius	XII	on	the	1500th	anniversary	of
+book.written_work.author	0	2	6	9	Sweetwater	Creek	is	a	novel	by	Anne	Rivers	Siddons	.	Published	in	2005,	it
+book.written_work.author	0	2	6	9	Uncommon	Law	is	a	book	by	A.	P.	Herbert	first	published	by	Methuen	in
+book.written_work.author	0	2	7	10	Berkeley	Square	is	a	play	written	by	John	L.	Balderston	which	tells	the	story	of
+book.written_work.author	0	2	7	10	Burglar	Bill	was	written	in	1888	by	Thomas	Anstey	Guthrie	using	the	pseudonym	F.	Anstey
+book.written_work.author	0	2	7	10	Command	Decision	is	a	war	novel	by	William	Wister	Haines	,	serialized	in	1946–47	in
+book.written_work.author	0	2	7	10	Command	Decision	is	a	war	novel	by	William	Wister	Haines	,	serialized	in	1946–47	in
+book.written_work.author	0	2	7	10	Crowned	Heads	is	a	short	story	by	P.	G.	Wodehouse	,	first	published	in	US
+book.written_work.author	0	2	7	10	Facial	Justice	is	a	dystopian	novel	by	L.	P.	Hartley	,	published	in	1960.	The
+book.written_work.author	0	2	7	10	M*A*S*H	Mania	is	a	novel	written	by	H.	Richard	Hornberger	under	the	pseudonym	Richard	Hooker
+book.written_work.author	0	2	7	10	Mildred	Pierce	is	a	1941	novel	by	James	M.	Cain	.	Mildred	Pierce	may	also
+book.written_work.author	0	2	7	10	Owen	Glendower	is	a	historical	novel	by	John	Cowper	Powys	first	published	in	America	in
+book.written_work.author	0	2	7	10	Paper	Fish	is	a	1980	novel	by	Tina	De	Rosa	,	published	initially	by	Wine
+book.written_work.author	0	2	7	10	Stella	Dallas	is	a	1923	novel	by	Olive	Higgins	Prouty	,	written	in	response	to
+book.written_work.author	0	2	7	10	Terminal	Velocity	is	a	1997	novel	by	Blanche	McCrary	Boyd	,	dealing	with	many	lesbian-related
+book.written_work.author	0	2	7	10	The	Rivals	is	a	1775	play	by	Richard	Brinsley	Sheridan	.	The	Rivals	may	also
+book.written_work.author	0	2	7	10	The	Store	is	a	1932	novel	by	Thomas	Sigismund	Stribling	.	It	won	the	Pulitzer
+book.written_work.author	0	2	7	11	Mexican	WhiteBoy	is	a	2008	novel	by	Matt	de	la	Peña	.	Mexican	WhiteBoy	by	Matt
+book.written_work.author	0	2	7	9	Angels	Fall	is	a	play	written	by	Lanford	Wilson	.	It	debuted	at	New
+book.written_work.author	0	2	7	9	Animal	Farm	is	a	satirical	novel	by	George	Orwell	,	ostensibly	about	a	group
+book.written_work.author	0	2	7	9	Ann	Vickers	is	a	1933	novel	by	Sinclair	Lewis	.	It	is	made	into
+book.written_work.author	0	2	7	9	Ape	House	is	a	2010	novel	by	Sara	Gruen	.	.	A	group	of
+book.written_work.author	0	2	7	9	Arctic	Village	is	a	book	written	by	Robert	Marshall	about	the	Koyukuk	River	area
+book.written_work.author	0	2	7	9	Artificial	Minds	is	a	book	written	by	Stan	Franklin	and	published	in	1995	by
+book.written_work.author	0	2	7	9	Backyard	Ballistics	is	a	how-to	book	by	William	Gurstelle	that	was	published	in	2001.Dwight
+book.written_work.author	0	2	7	9	Barren	Ground	is	a	1925	novel	by	Ellen	Glasgow	giving	an	account	of	thirty
+book.written_work.author	0	2	7	9	Beautiful	Thing	is	a	play	written	by	Jonathan	Harvey	and	first	performed	in	1993.
+book.written_work.author	0	2	7	9	Billy	Budd	is	a	short	novel	by	Herman	Melville	.	Billy	Budd	can	also
+book.written_work.author	0	2	7	9	Billy	Budd	is	a	short	novel	by	Herman	Melville	.	Billy	Budd	can	also
+book.written_work.author	0	2	7	9	Billy	Liar	is	a	1959	novel	by	Keith	Waterhouse	.	Billy	Liar	may	also
+book.written_work.author	0	2	7	9	Black	Beauty	is	an	1877	novel	by	Anna	Sewell	.	Adaptations	of	the	novel
+book.written_work.author	0	2	7	9	Black	Beauty	is	an	1877	novel	by	Anna	Sewell	.	Adaptations	of	the	novel
+book.written_work.author	0	2	7	9	Blind	Love	was	an	unfinished	novel	by	Wilkie	Collins	,	which	he	left	behind
+book.written_work.author	0	2	7	9	Blue	Movie	is	a	satirical	novel	by	Terry	Southern	about	the	making	of	a
+book.written_work.author	0	2	7	9	Bungay	Castle	is	a	gothic	novel	by	Elizabeth	Bonhôte	.	It	was	first	published
+book.written_work.author	0	2	7	9	Chinatown	Family	is	a	1948	novel	by	Lin	Yutang	set	in	New	York	of
+book.written_work.author	0	2	7	9	Christmas	Pudding	,	is	a	novel	by	Nancy	Mitford	,	first	published	in	1932.Rereading
+book.written_work.author	0	2	7	9	Continental	Drift	is	a	1985	novel	by	Russell	Banks	.	Set	in	the	early
+book.written_work.author	0	2	7	9	Coram	Boy	is	a	play	written	by	Helen	Edmundson	with	music	composed	by	Adrian
+book.written_work.author	0	2	7	9	Corpus	Christi	is	a	passion	play	by	Terrence	McNally	dramatizing	the	story	of	Jesus
+book.written_work.author	0	2	7	9	Cosmic	Banditos	is	a	1986	novel	by	Allan	Weisbecker	,	originally	published	by	Vintage
+book.written_work.author	0	2	7	9	Crampton	Hodnet	is	a	comic	novel	by	Barbara	Pym	,	published	posthumously	in	1985.Barbara
+book.written_work.author	0	2	7	9	Elmer	Gantry	is	a	1927	novel	by	Sinclair	Lewis	.	Elmer	Gantry	may	also
+book.written_work.author	0	2	7	9	Enoc	Huws	is	a	classic	novel	by	Daniel	Owen	,	written	in	the	Welsh
+book.written_work.author	0	2	7	9	Epsom	Downs	is	a	1977	play	by	Howard	Brenton	.	Taking	its	name	from
+book.written_work.author	0	2	7	9	Fanny	Hill	is	a	1748	novel	by	John	Cleland	.	Several	adaptations	have	been
+book.written_work.author	0	2	7	9	Hard	Times	is	an	1854	novel	by	Charles	Dickens	.	Hard	Times	may	also
+book.written_work.author	0	2	7	9	Hellfire	Hotchkiss	is	an	unfinished	novel	by	Mark	Twain	.	Twain	completed	three	chapters
+book.written_work.author	0	2	7	9	In	Flame	is	a	2000	play	by	Charlotte	Jones	.	Its	premiere	at	the
+book.written_work.author	0	2	7	9	Intimate	Apparel	is	a	play	written	by	Lynn	Nottage	.	The	play	is	a
+book.written_work.author	0	2	7	9	John	Barleycorn	is	an	autobiographical	novel	by	Jack	London	dealing	with	his	enjoyment	of

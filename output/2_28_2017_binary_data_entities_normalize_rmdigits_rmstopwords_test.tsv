@@ -1,0 +1,149 @@
+RELATION	called	score	entityb	entitya	martin	luther	king
+RELATION	parliamentary	cause	entitya	entityb	protectorate	gerard
+NO_RELATION	entitya	novel	entityb	first	published
+RELATION	films	beginning	entitya	entityb	's	arrival	power
+RELATION	kohl	soviet	leader	entityb	entitya	period	time
+RELATION	reputed	hidden	entityb	's	troops	entitya	nearby	boscobel	wood
+NO_RELATION	entitya	passion	play	entityb	dramatizing	story	jesus
+RELATION	used	president	entityb	deliver	entitya	consecration
+RELATION	migration	called	entitya	marked	beginning	entityb	's	reign	secular
+NO_RELATION	entitya	science	fiction	novel	entityb	first	published	complete	form
+RELATION	king	's	side	entitya	attached	entityb	whose	niece	married
+RELATION	anniversary	entityb	's	entitya	civil	war	institute
+RELATION	sources	married	entityb	one	year	entitya	though
+RELATION	supporter	entityb	lead-up	entitya
+RELATION	arguments	president	entityb	entitya	said
+NO_RELATION	entitya	play	entityb	neo-brechtian
+NO_RELATION	entitya	satirical	novel	entityb	ostensibly	group
+RELATION	entitya	entityb	resolving	government
+NO_RELATION	entitya	novel	entityb	first	published	1981..
+RELATION	18.	goulden	present	entityb	delivered	entitya	heard	speech
+RELATION	civil	war	u.s.	president	entityb	pictured	delivered	entitya	dedication
+NO_RELATION	entitya	science	fiction	novel	entityb	written	heritage	universe
+RELATION	afb	frequent	deployments	entityb	entitya	three	squadron	disbanded
+RELATION	civil	war	u.s.	president	entityb	delivers	entitya	dedication	ceremony
+RELATION	group	membership	entitya	followers	entityb	decided	crop	hair
+NO_RELATION	entitya	science	fiction	novel	author	entityb	first	published	august
+RELATION	inspired	entityb	's	entitya	goldmark	's	compositions
+NO_RELATION	entitya	written	entityb	1660,	full-blown
+RELATION	built	property	bought	entityb	one	men	involved	entitya	guy	fawkes	stonor
+RELATION	bad	presentation	practices	using	entityb	's	famous	entitya	norvig	one
+NO_RELATION	entitya	novel	entityb	first	novel
+RELATION	socialist	republic	entityb	entitya	yugoslav	people	's	army
+NO_RELATION	entitya	science	fiction	novel	entityb	kathryn	h.	kidd
+RELATION	intercede	behalf	entityb	attempting	make	amends	following	violation	entitya	abu	sufyan	also	asked
+RELATION	south	guantanamo	bay	entityb	entitya	unsuccessful	invasion
+NO_RELATION	entitya	play	written	entityb	adapted	novel
+RELATION	formed	english	political	leader	entityb	17th	century	entitya	name	came
+NO_RELATION	entitya	play	written	entityb	play
+RELATION	fought	siege	entityb	entitya	awarded
+RELATION	leading	parliamentarian	entitya	worked	closely	entityb	played	part
+NO_RELATION	entitya	first	novel	written	entityb	first	novel
+RELATION	general	william	howe	seized	entityb	peninsula	entitya	americans	fell	back
+NO_RELATION	entitya	satirical	novel	entityb	ostensibly	group
+RELATION	year	entitya	knights	allowed	entityb	slight	entire	castle
+RELATION	due	policies	entityb	see	entitya	glasnost
+NO_RELATION	entitya	book	entityb	first	published	1934.dobry
+RELATION	present	gettysburg	entityb	delivered	entitya	goulden	heard
+RELATION	athens	entityb	entitya	american	constitutionalism
+RELATION	spanish	province	northestern	entityb	entitya	included	present-day	tamaulipas
+RELATION	including	shoes	thrown	entityb	giving	entitya	last	airing
+RELATION	col	abercrombie	arrived	entityb	entitya	killed
+RELATION	hijra-40	ah	entityb	years	entitya	ah
+RELATION	islam	begins	around	time	entityb	followers	took	flight	entitya	city
+NO_RELATION	entitya	science	fiction	novel	entityb	plot	revolves	around
+RELATION	reinforce	garrison	entityb	town	entitya	government
+RELATION	illustrated	version	entitya	entityb	american
+RELATION	kingdom	italy	entityb	entitya	1866,	part
+RELATION	excerpt	u.s.	president	entityb	's	entitya
+RELATION	cromwell	others	assert	entityb	future	architects	entitya	including	hampden	may
+RELATION	fought	entityb	entitya	following	end
+NO_RELATION	entitya	play	entityb	woman	whose
+RELATION	first	sentence	entityb	's	entitya	four	score
+NO_RELATION	entitya	novel	entityb	first	published
+RELATION	emigration	entitya	entityb	original	followers
+RELATION	time	lord	protector	entityb	deposed	monarchy	entitya	city	oxford
+RELATION	met	president	entityb	attended	entitya	person
+RELATION	carlton	's	naval	squadron	entityb	entitya	october	1776,
+RELATION	medina	entitya	entityb	decided	send	letters
+RELATION	pushing	colonials	entityb	entitya	onto	opposite	side
+NO_RELATION	entitya	play	entityb	henry	chettle
+NO_RELATION	entitya	19th-century	realist	novel	entityb	called
+RELATION	next	month	cousin	entityb	helped	organize	entitya	influential	women	's
+NO_RELATION	entitya	musical	music	entityb	lyrics	james	racheff
+RELATION	medina	prior	entitya	travel	prophet	entityb	struggled	non-violently	oppressors
+RELATION	involved	entitya	including	entityb	becoming	de	facto
+RELATION	accepted	entityb	entitya	's	high	time
+NO_RELATION	entitya	play	entityb	premiered	london
+RELATION	appointed	lord	chancellor	entityb	entitya	position	somewhat
+NO_RELATION	entitya	novel	entityb	erewhon	may	also	refer
+NO_RELATION	entitya	book	written	entityb	koyukuk	river	area
+RELATION	reading	entityb	's	famous	entitya	opening	dialogue
+RELATION	division	based	entityb	entitya	2000.	following	orders
+RELATION	castle	lane	entityb	responsible	destruction	entitya	1642–51
+RELATION	power	coincided	entityb	advent	entitya	glasnost	mahkamov
+RELATION	celebrate	150th	anniversary	entityb	's	entitya	martel	chairs
+NO_RELATION	entitya	entityb	edition	page
+RELATION	within	year	entityb	's	parliamentarians	fresh	victory	entitya	came	perth
+NO_RELATION	entitya	one-act	play	written	entityb	premiered
+NO_RELATION	entitya	science	fiction	short	story	entityb	first	published
+NO_RELATION	entitya	novel	entityb	adaptations	novel
+RELATION	war	u.	s.	president	entityb	delivers	entitya	military	cemetery	dedication
+RELATION	ceremony	u.s.	president	entityb	delivered	entitya	addition
+NO_RELATION	entitya	science	fiction	novel	entityb	plot	revolves	around
+RELATION	battle	gettysburg	entitya	president	entityb	speech	november
+RELATION	opening	entityb	's	entitya	gettysburg	address	abraham	lincoln
+NO_RELATION	entitya	book	written	entityb	koyukuk	river	area
+RELATION	near	puerta	del	sol	entityb	entitya	depicts	one
+RELATION	1776..	fall	entityb	entitya	east	hampton	ports
+RELATION	series	entityb	assassinated	entitya	halted
+NO_RELATION	entitya	issued	november	1,	1956,	encyclical	entityb	renewing	request	prayers
+RELATION	coastal	waters	entityb	entitya	unit	also	carried
+NO_RELATION	entitya	collection	assorted	remarks	entityb	contains	several	discussions
+RELATION	new	battlefield	cemetery	heard	entityb	's	292-word	dedication	speech	known	entitya	gettysburg
+NO_RELATION	entitya	play	written	entityb	adapted	novel
+RELATION	near	end	entitya	leading	victory	entityb	execution	king
+RELATION	german	counter-attack	entityb	known	entitya	accompanied	allied
+RELATION	fought	entitya	entityb	's	scottish	campaign	1650–51
+RELATION	durham	crushed	entityb	entitya	crewe	also	furnished
+NO_RELATION	entitya	play	entityb	life
+RELATION	hay	draft	entitya	entityb	's	handwriting
+RELATION	reading	excerpts	entityb	's	great	documents	including	entitya	lincoln	portrait	written
+RELATION	pericles	funeral	oration	entityb	's	famous	speech	entitya	garry	wills	lincoln
+NO_RELATION	entitya	19th-century	realist	novel	entityb	called
+RELATION	soviet	state	entityb	proclaimed	entitya	1980s
+RELATION	near	hrvatska	dubica	central	entityb	entitya	october	1991,
+NO_RELATION	entitya	novel	entityb	;people	dan	mcteague
+RELATION	culminating	entitya	protectorate	entityb	significant	swings
+RELATION	early	reign	entityb	entitya	came	age
+RELATION	bridge	partially	rebuilt	entityb	blew	two	arches	entitya	prevent	king	charles
+RELATION	fulcrum	entitya	armies	entityb	earl	derby
+RELATION	entityb	's	entitya	among
+RELATION	set	entityb	entitya	promulgated	first	detailed	written
+RELATION	sabotaging	soviet	leader	entityb	's	policy	liberal	reforms	known	entitya	karen	dawisha	bruce
+NO_RELATION	entitya	novel	entityb	book	examines
+NO_RELATION	entitya	book	book	written	entityb	published	1901.	rabbi
+RELATION	age	entityb	's	entitya	given	lincoln	left
+NO_RELATION	entitya	play	written	entityb	adapted	novel
+RELATION	important	part	entitya	operational	base	entityb	reputed
+NO_RELATION	entitya	novel	entityb	billy	liar	may	also
+RELATION	project	commemorate	entitya	given	entityb	four	months	battle
+RELATION	parliamentary	cause	entitya	drawing	close	entityb	married	cromwell	's	third
+RELATION	prior	entitya	travel	prophet	entityb	struggled	non-violently	oppressors
+NO_RELATION	entitya	book	book	written	entityb	published	1901.	rabbi
+RELATION	captured	cervantes	entityb	entitya	northern	luzon
+NO_RELATION	entitya	opera	text	entityb	music	johann	christoph
+RELATION	history	especially	entitya	major	works	included	biography	entityb	two	volumes
+RELATION	instruments	apparatus	entitya	yongnian	lifa	calendar	entityb	jiaoyao	xulun
+NO_RELATION	entitya	science	fiction	novel	entityb	first	published	complete	form
+RELATION	converted	soon	entityb	's	entitya	time
+NO_RELATION	entitya	two-person	play	entityb	depicts	john	barrymore
+NO_RELATION	entitya	book	entityb	work
+NO_RELATION	entitya	novel	entityb	earthlight	may	also	refer
+RELATION	susan	b.	anthony	entityb	analyzed	influences	led	entitya	women	's	rights
+NO_RELATION	entitya	play	written	entityb	1573,	represented
+RELATION	upon	giving	entitya	1863,	entityb	presented	william
+RELATION	19th	century	entityb	drafted	entitya	cursive	hand
+NO_RELATION	entitya	play	entityb	uncle	vanya	may	also
+RELATION	resent	refer	entityb	's	entitya	every	time	write
+NO_RELATION	entitya	novel	entityb	first	published	1932.rereading

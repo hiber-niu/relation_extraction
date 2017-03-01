@@ -1,0 +1,149 @@
+RELATION	call	score	ENTITYB	ENTITYA	Martin	Luther	King
+RELATION	Parliamentari	caus	ENTITYA	ENTITYB	Protector	Gerard
+NO_RELATION	ENTITYA	novel	ENTITYB	first	publish
+RELATION	film	begin	ENTITYA	ENTITYB	's	arriv	power
+RELATION	Kohl	Soviet	leader	ENTITYB	ENTITYA	period	Dure	time
+RELATION	reput	hidden	ENTITYB	's	troop	ENTITYA	nearbi	Boscobel	Wood
+NO_RELATION	ENTITYA	passion	play	ENTITYB	dramat	stori	Jesu
+RELATION	use	Presid	ENTITYB	deliv	ENTITYA	Consecr
+RELATION	Thi	migrat	call	ENTITYA	mark	begin	ENTITYB	's	reign	secular
+NO_RELATION	ENTITYA	scienc	fiction	novel	ENTITYB	first	publish	complet	form
+RELATION	king	's	side	ENTITYA	attach	ENTITYB	whose	niec	marri
+RELATION	anniversari	ENTITYB	's	ENTITYA	The	Civil	War	Institut
+RELATION	sourc	marri	ENTITYB	one	year	ENTITYA	though
+RELATION	support	ENTITYB	lead-up	ENTITYA	In
+RELATION	argument	Presid	ENTITYB	ENTITYA	said
+NO_RELATION	ENTITYA	play	ENTITYB	It	neo-Brechtian
+NO_RELATION	ENTITYA	satir	novel	ENTITYB	ostens	group
+RELATION	The	ENTITYA	ENTITYB	resolv	govern
+NO_RELATION	ENTITYA	novel	ENTITYB	first	publish	1981..
+RELATION	18.	Goulden	present	ENTITYB	deliv	ENTITYA	heard	speech
+RELATION	Civil	War	U.S.	Presid	ENTITYB	pictur	deliv	ENTITYA	dedic
+NO_RELATION	ENTITYA	scienc	fiction	novel	ENTITYB	written	Heritag	Univers
+RELATION	AFB	frequent	deploy	ENTITYB	ENTITYA	Three	Squadron	disband
+RELATION	Civil	War	U.S.	Presid	ENTITYB	deliv	ENTITYA	dedic	ceremoni
+RELATION	group	membership	Dure	ENTITYA	follow	ENTITYB	decid	crop	hair
+NO_RELATION	ENTITYA	scienc	fiction	novel	author	ENTITYB	First	publish	August
+RELATION	inspir	ENTITYB	's	ENTITYA	Goldmark	's	composit
+NO_RELATION	ENTITYA	written	ENTITYB	1660,	full-blown
+RELATION	built	properti	bought	ENTITYB	one	men	involv	ENTITYA	Guy	Fawk	Stonor
+RELATION	bad	present	practic	use	ENTITYB	's	famou	ENTITYA	Norvig	one
+NO_RELATION	ENTITYA	novel	ENTITYB	first	novel
+RELATION	Socialist	Republ	ENTITYB	Dure	ENTITYA	Yugoslav	Peopl	's	Armi
+NO_RELATION	ENTITYA	scienc	fiction	novel	ENTITYB	Kathryn	H.	Kidd
+RELATION	interced	behalf	ENTITYB	attempt	make	amend	follow	violat	ENTITYA	Abu	Sufyan	also	ask
+RELATION	south	Guantanamo	Bay	ENTITYB	ENTITYA	unsuccess	invas
+NO_RELATION	ENTITYA	play	written	ENTITYB	adapt	novel
+RELATION	form	English	polit	leader	ENTITYB	17th	centuri	ENTITYA	The	name	came
+NO_RELATION	ENTITYA	play	written	ENTITYB	The	play
+RELATION	fought	Sieg	ENTITYB	ENTITYA	He	award
+RELATION	lead	Parliamentarian	ENTITYA	work	close	ENTITYB	He	play	part
+NO_RELATION	ENTITYA	first	novel	written	ENTITYB	first	novel
+RELATION	Gener	William	Howe	seiz	ENTITYB	peninsula	ENTITYA	The	American	fell	back
+NO_RELATION	ENTITYA	satir	novel	ENTITYB	ostens	group
+RELATION	year	ENTITYA	Knight	allow	ENTITYB	slight	entir	castl
+RELATION	due	polici	ENTITYB	see	ENTITYA	Glasnost
+NO_RELATION	ENTITYA	book	ENTITYB	first	publish	1934.Dobri
+RELATION	present	Gettysburg	ENTITYB	deliv	ENTITYA	Goulden	heard
+RELATION	Athen	ENTITYB	The	ENTITYA	American	Constitution
+RELATION	Spanish	provinc	northestern	ENTITYB	ENTITYA	includ	present-day	Tamaulipa
+RELATION	includ	shoe	thrown	ENTITYB	give	ENTITYA	The	last	air
+RELATION	Col	Abercrombi	arriv	ENTITYB	ENTITYA	kill
+RELATION	Hijra-40	AH	ENTITYB	year	ENTITYA	AH
+RELATION	Islam	begin	around	time	ENTITYB	follow	took	flight	ENTITYA	citi
+NO_RELATION	ENTITYA	scienc	fiction	novel	ENTITYB	The	plot	revolv	around
+RELATION	reinforc	garrison	ENTITYB	town	ENTITYA	The	Govern
+RELATION	illustr	version	The	ENTITYA	ENTITYB	American
+RELATION	Kingdom	Itali	ENTITYB	ENTITYA	1866,	part
+RELATION	excerpt	U.S.	Presid	ENTITYB	's	ENTITYA	Each
+RELATION	Cromwel	other	assert	ENTITYB	futur	architect	ENTITYA	includ	Hampden	may
+RELATION	fought	ENTITYB	ENTITYA	Follow	end
+NO_RELATION	ENTITYA	play	ENTITYB	woman	whose
+RELATION	first	sentenc	ENTITYB	's	ENTITYA	Four	score
+NO_RELATION	ENTITYA	novel	ENTITYB	It	first	publish
+RELATION	emigr	ENTITYA	ENTITYB	origin	follow
+RELATION	time	Lord	Protector	ENTITYB	depos	monarchi	ENTITYA	The	citi	Oxford
+RELATION	He	met	Presid	ENTITYB	attend	ENTITYA	person	At
+RELATION	Carlton	's	naval	squadron	ENTITYB	ENTITYA	Octob	1776,
+RELATION	Medina	After	ENTITYA	ENTITYB	decid	send	letter
+RELATION	push	coloni	ENTITYB	ENTITYA	onto	opposit	side
+NO_RELATION	ENTITYA	play	ENTITYB	Henri	Chettl
+NO_RELATION	ENTITYA	19th-centuri	realist	novel	ENTITYB	call
+RELATION	The	next	month	cousin	ENTITYB	help	organ	ENTITYA	influenti	women	's
+NO_RELATION	ENTITYA	music	music	ENTITYB	lyric	Jame	Racheff
+RELATION	Medina	Prior	ENTITYA	travel	prophet	ENTITYB	struggl	non-viol	oppressor
+RELATION	involv	ENTITYA	includ	ENTITYB	becom	de	facto
+RELATION	accept	ENTITYB	We	Had	Our	ENTITYA	It	's	High	Time
+NO_RELATION	ENTITYA	play	ENTITYB	premier	London
+RELATION	appoint	Lord	Chancellor	ENTITYB	Dure	ENTITYA	posit	somewhat
+NO_RELATION	ENTITYA	novel	ENTITYB	Erewhon	may	also	refer
+NO_RELATION	ENTITYA	book	written	ENTITYB	Koyukuk	River	area
+RELATION	read	ENTITYB	's	famou	ENTITYA	Open	Dialogu
+RELATION	Divis	base	ENTITYB	ENTITYA	2000.	Follow	order
+RELATION	Castl	Lane	ENTITYB	respons	destruct	ENTITYA
+RELATION	power	coincid	ENTITYB	advent	ENTITYA	Glasnost	Dure	Mahkamov
+RELATION	celebr	150th	anniversari	ENTITYB	's	ENTITYA	Martel	chair
+NO_RELATION	ENTITYA	ENTITYB	edit	page
+RELATION	within	year	ENTITYB	's	Parliamentarian	fresh	victori	ENTITYA	came	Perth
+NO_RELATION	ENTITYA	one-act	play	written	ENTITYB	It	premier
+NO_RELATION	ENTITYA	scienc	fiction	short	stori	ENTITYB	first	publish
+NO_RELATION	ENTITYA	novel	ENTITYB	Adapt	novel
+RELATION	War	U.	S.	Presid	ENTITYB	deliv	ENTITYA	militari	cemeteri	dedic
+RELATION	ceremoni	U.S.	Presid	ENTITYB	deliv	ENTITYA	In	addit
+NO_RELATION	ENTITYA	scienc	fiction	novel	ENTITYB	The	plot	revolv	around
+RELATION	Battl	Gettysburg	ENTITYA	Presid	ENTITYB	speech	Novemb
+RELATION	open	ENTITYB	's	ENTITYA	Gettysburg	Address	Abraham	Lincoln
+NO_RELATION	ENTITYA	book	written	ENTITYB	Koyukuk	River	area
+RELATION	near	Puerta	del	Sol	ENTITYB	ENTITYA	It	depict	one
+RELATION	1776..	After	fall	ENTITYB	ENTITYA	East	Hampton	port
+RELATION	seri	ENTITYB	assassin	ENTITYA	halt
+NO_RELATION	ENTITYA	issu	Novemb	1,	1956,	encycl	ENTITYB	renew	request	prayer
+RELATION	coastal	water	ENTITYB	ENTITYA	The	unit	also	carri
+NO_RELATION	ENTITYA	collect	assort	remark	ENTITYB	It	contain	sever	discuss
+RELATION	new	battlefield	cemeteri	heard	ENTITYB	's	292-word	dedic	speech	known	ENTITYA	Gettysburg
+NO_RELATION	ENTITYA	play	written	ENTITYB	adapt	novel
+RELATION	near	end	ENTITYA	lead	victori	ENTITYB	execut	King
+RELATION	German	counter-attack	ENTITYB	known	ENTITYA	accompani	Alli
+RELATION	He	fought	ENTITYA	ENTITYB	's	Scottish	campaign
+RELATION	Durham	crush	ENTITYB	ENTITYA	Crew	also	furnish
+NO_RELATION	ENTITYA	play	ENTITYB	life
+RELATION	Hay	Draft	ENTITYA	ENTITYB	's	handwrit
+RELATION	read	excerpt	ENTITYB	's	great	document	includ	ENTITYA	Lincoln	Portrait	written
+RELATION	Pericl	funer	orat	ENTITYB	's	famou	speech	ENTITYA	Garri	Will	Lincoln
+NO_RELATION	ENTITYA	19th-centuri	realist	novel	ENTITYB	call
+RELATION	Soviet	State	ENTITYB	proclaim	ENTITYA	1980
+RELATION	near	Hrvatska	Dubica	central	ENTITYB	ENTITYA	On	Octob	1991,
+NO_RELATION	ENTITYA	novel	ENTITYB	;Peopl	Dan	McTeagu
+RELATION	culmin	ENTITYA	Protector	ENTITYB	signific	swing
+RELATION	earli	reign	ENTITYB	ENTITYA	came	age
+RELATION	bridg	partial	rebuilt	ENTITYB	blew	two	arch	ENTITYA	prevent	King	Charl
+RELATION	fulcrum	ENTITYA	The	armi	ENTITYB	Earl	Derbi
+RELATION	ENTITYB	's	ENTITYA	among
+RELATION	set	ENTITYB	ENTITYA	promulg	first	detail	written
+RELATION	sabotag	Soviet	leader	ENTITYB	's	polici	liber	reform	known	ENTITYA	Karen	Dawisha	Bruce
+NO_RELATION	ENTITYA	novel	ENTITYB	The	book	examin
+NO_RELATION	ENTITYA	book	book	written	ENTITYB	publish	1901.	Rabbi
+RELATION	age	ENTITYB	's	ENTITYA	given	Lincoln	left
+NO_RELATION	ENTITYA	play	written	ENTITYB	adapt	novel
+RELATION	import	part	ENTITYA	oper	base	ENTITYB	reput
+NO_RELATION	ENTITYA	novel	ENTITYB	Billi	Liar	may	also
+RELATION	project	commemor	ENTITYA	given	ENTITYB	four	month	battl
+RELATION	Parliamentari	caus	ENTITYA	draw	close	ENTITYB	marri	Cromwel	's	third
+RELATION	Prior	ENTITYA	travel	prophet	ENTITYB	struggl	non-viol	oppressor
+NO_RELATION	ENTITYA	book	book	written	ENTITYB	publish	1901.	Rabbi
+RELATION	captur	Cervant	ENTITYB	ENTITYA	Northern	Luzon
+NO_RELATION	ENTITYA	opera	text	ENTITYB	music	Johann	Christoph
+RELATION	histori	especi	ENTITYA	Her	major	work	includ	biographi	ENTITYB	two	volum
+RELATION	instrument	apparatu	ENTITYA	yongnian	lifa	calendar	ENTITYB	Jiaoyao	xulun
+NO_RELATION	ENTITYA	scienc	fiction	novel	ENTITYB	first	publish	complet	form
+RELATION	convert	soon	ENTITYB	's	ENTITYA	time
+NO_RELATION	ENTITYA	two-person	play	ENTITYB	depict	John	Barrymor
+NO_RELATION	ENTITYA	book	ENTITYB	It	work
+NO_RELATION	ENTITYA	novel	ENTITYB	Earthlight	may	also	refer
+RELATION	Susan	B.	Anthoni	ENTITYB	analyz	influenc	led	ENTITYA	women	's	right
+NO_RELATION	ENTITYA	play	written	ENTITYB	1573,	repres
+RELATION	Upon	give	ENTITYA	1863,	ENTITYB	present	William
+RELATION	19th	centuri	ENTITYB	draft	ENTITYA	cursiv	hand
+NO_RELATION	ENTITYA	play	ENTITYB	Uncl	Vanya	may	also
+RELATION	resent	refer	ENTITYB	's	ENTITYA	everi	time	write
+NO_RELATION	ENTITYA	novel	ENTITYB	first	publish	1932.Reread

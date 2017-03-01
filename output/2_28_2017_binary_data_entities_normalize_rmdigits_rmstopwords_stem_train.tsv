@@ -1,0 +1,586 @@
+NO_RELATION	entitya	play	entityb	written
+RELATION	cathol	church	entityb	's	entitya	christo	also	involv
+RELATION	gettysburg	presid	entityb	deliv	entitya	initi	commemor	grand
+NO_RELATION	entitya	issu	octob	28,	1956,	encycl	entityb	urg	public	prayer	peac
+NO_RELATION	entitya	war	novel	entityb	serial
+RELATION	defens	forc	vukovar	entityb	entitya	kill
+NO_RELATION	entitya	stori	entityb	concern	curs	villag
+NO_RELATION	entitya	novel	written	entityb	first	publish	april	6,
+NO_RELATION	entitya	second	book	short	stori	entityb	first	publish
+RELATION	anthoni	introduc	entityb	one	organ	entitya	introduc	controversi
+NO_RELATION	entitya	novel	written	entityb	eragon	may	also	refer
+NO_RELATION	entitya	novel	entityb	publish	1998..	toni
+RELATION	mark	year	entityb	began	entitya	mecca	medina
+NO_RELATION	entitya	book	entityb	publish	ace
+RELATION	base	life	entityb	led	parliamentari	forc	entitya	patton
+NO_RELATION	entitya	book	entityb	book	describ	ulmer
+RELATION	gener	howe	seiz	entityb	peninsula	entitya	ketchum	pp
+RELATION	chief	rabbi	entityb	entitya	rabbi	hid	de
+RELATION	entitya	entityb	singl	nation
+NO_RELATION	entitya	classic	novel	entityb	written	welsh
+RELATION	's	forc	north	entityb	entitya	mongol	defeat
+NO_RELATION	entitya	collect	essay	written	complet	entityb	1894.	garland	one
+NO_RELATION	entitya	issu	octob	28,	1956,	encycl	entityb	urg	public	prayer	peac
+NO_RELATION	entitya	novel	entityb	adapt
+RELATION	parliamentari	caus	entitya	entityb	protector	sir
+NO_RELATION	entitya	first	play	written	entityb	premier
+RELATION	luzon	entityb	entitya	date
+NO_RELATION	entitya	poem	entityb	written	sever	version
+RELATION	juli	ampndash;	entityb	emigr	commun	movement	call	entitya	medina
+NO_RELATION	entitya	children	's	novel	written	illustr	entityb	tell	stori
+NO_RELATION	entitya	peopl	arm	book	entityb	paz	famou
+NO_RELATION	entitya	one-act	play	play	entityb	centr	around
+NO_RELATION	entitya	novel	written	entityb	pseudonym	richard	hooker
+NO_RELATION	entitya	children	's	novel	entityb	origin	publish	oxford	univers
+NO_RELATION	entitya	young	adult	novel	written	entityb	julia	foster	get
+NO_RELATION	entitya	play	entityb	retel	myth
+RELATION	evergreen	cemeteri	entityb	's	entitya	deliv
+RELATION	turn	point	entityb	's	life	entitya	also	mark	begin
+NO_RELATION	entitya	stori	entityb	littl	girl	name
+RELATION	climax	featur	extract	entityb	's	entitya	accompani	footag	tank
+NO_RELATION	entitya	play	entityb	premier	off-broadway
+RELATION	practic	reason	1788.	entityb	entitya	1863.	john	lock
+RELATION	annual	program	design	commemor	entityb	's	entitya	well
+NO_RELATION	entitya	histor	novel	entityb	set	victorian	london
+NO_RELATION	entitya	novel	entityb	david	copperfield	may	also
+RELATION	veracruz	entityb	conclud	entitya	spain
+RELATION	write	equival	entityb	's	entitya	explain	philosophi
+RELATION	broken	piec	entityb	follow	entitya	buri	palac
+RELATION	victori	entityb	royalist	entitya	battl
+RELATION	roundhead	entitya	entityb	success	oust
+NO_RELATION	entitya	novella	entityb	origin	publish
+NO_RELATION	entitya	collect	scienc	fiction	short	stori	entityb	first	publish
+RELATION	also	critic	entitya	peac	treati	entityb	sign	anwar	sadat
+RELATION	accus	serv	entityb	king	entitya	defenc
+NO_RELATION	entitya	play	entityb	girl	grow
+RELATION	also	entityb	's	great	entitya	form	elocutio
+RELATION	strateg	posit	entitya	entityb	came	dragoon
+RELATION	coloni	sieg	entityb	entitya	north	boston
+RELATION	therefor	label	kafir	entitya	mean	flight	emigr	leav	prophet	entityb	follow
+RELATION	decemb	befort	entityb	entitya	posthum	promot
+NO_RELATION	entitya	book	poem	essay	written	entityb	1974.	within
+NO_RELATION	entitya	children	's	pictur	book	entityb	gritch	witch
+NO_RELATION	entitya	collect	essay	botanist	entityb	articl	defend
+RELATION	resign	protest	entitya	presid	entityb	appoint	new	govern
+NO_RELATION	entitya	novel	entityb	direct	sequel
+RELATION	day	rememb	entityb	's	speech	becam	known	entitya	1950
+NO_RELATION	entitya	satir	play	entityb	howard	brenton	explor
+RELATION	group	2000,	p.	157.	entityb	suggest	book	entitya	new	think
+NO_RELATION	entitya	action/sci	fiction/thril	novel	entityb	nathaniel	hunter	could	track
+NO_RELATION	entitya	stage	play	entityb	premier	victori
+NO_RELATION	entitya	crime	novel	entityb	get	titl
+NO_RELATION	entitya	children	's	novel	entityb	publish	1999.
+RELATION	american	gain	control	entityb	entitya	british
+RELATION	besieg	town	jaffna	entityb	entitya	mission	undertaken
+NO_RELATION	entitya	play	written	entityb	music	compos	adrian
+NO_RELATION	entitya	novel	entityb	publish	initi	wine
+RELATION	tribut	upon	entitya	entityb	present	william
+NO_RELATION	entitya	young	adult	novel	entityb	tell	stori
+NO_RELATION	entitya	scienc	fiction	novel	written	entityb	part	grand
+RELATION	1988,	entitya	polici	entityb	start	allow	privat	enterpris
+RELATION	support	parliament	entitya	subsequ	becam	strong	adher	entityb	whose	third	daughter
+NO_RELATION	entitya	novel	entityb	first	publish	snp
+RELATION	mexico	mexico	citi	entityb	entitya	universidad	de	santo
+RELATION	phrase	entityb	's	entitya	civil	war	era
+RELATION	august	entityb	entitya	orpheu	first
+RELATION	entityb	follow	complet	entitya	mecca	medina
+RELATION	novemb	19,	1863,	entityb	deliv	entitya	dedic
+RELATION	process	entitya	entityb	john	milton	john
+NO_RELATION	entitya	novel	entityb	clarissa	also	refer
+NO_RELATION	entitya	scienc	fiction	novel	entityb	publish	1969..
+NO_RELATION	entitya	categori	feder	minist	entityb	minist
+NO_RELATION	entitya	novel	entityb	co-written	judith
+RELATION	aforement	first	battl	entityb	entitya	decis	second	battl
+RELATION	victor	entityb	age	45,	paint	1699.	1696,	entitya	person	led	three	armi
+NO_RELATION	entitya	collect	thirti	scienc	fiction	stori	entityb	first	publish	decemb
+NO_RELATION	entitya	novel	entityb	set	new	york
+NO_RELATION	entitya	novel	entityb	publish
+NO_RELATION	entitya	action/sci	fiction/thril	novel	entityb	nathaniel	hunter	could	track
+NO_RELATION	entitya	name	ofempir	star	book	entityb	bsa	empir	star
+NO_RELATION	entitya	mysteri	novel	entityb	young	woman
+NO_RELATION	entitya	scienc	fiction	novel	entityb	explor	near-futur	event
+RELATION	gettysburg	address	entitya	entityb	's	famou	speech
+RELATION	come	u.s.	presid	entityb	's	entitya	deliv
+RELATION	nation	cemeteri	site	entityb	's	entitya	number	smaller
+RELATION	went	wrong	entitya	rise	fall	entityb	w.w.	norton
+NO_RELATION	entitya	novel	entityb	french	author
+NO_RELATION	entitya	novel	entityb	elmer	gantri	may	also
+NO_RELATION	entitya	play	entityb	written
+RELATION	reform	back	soviet	leader	entityb	introduc	signific	chang	tradit	system	see	entitya	alloc
+RELATION	armi	sieg	entityb	entitya	june	1658..
+NO_RELATION	entitya	play	entityb	adapt
+NO_RELATION	entitya	book	entityb	publish	1938.	gibbon
+NO_RELATION	entitya	fantasi	comic	book	writer	entityb	pencil	carlo	pacheco
+RELATION	windsor	hampton	court	entityb	station	armi	end	entitya	1647.	jame	ii	camp
+NO_RELATION	entitya	young	adult	scienc	fiction	novel	written	entityb	jame	d.	macdonald
+RELATION	movement	began	entitya	organ	entityb	lucretia	mott
+NO_RELATION	entitya	horror	novel	written	entityb	child
+NO_RELATION	entitya	book	entityb	base
+RELATION	reed	colonel	entityb	's	armi	entitya	famili	base
+NO_RELATION	entitya	tragic	play	entityb	hamlet	may	also
+RELATION	1623..	entitya	entityb	's	troop	camp	overnight
+NO_RELATION	entitya	spi	novel	entityb	second
+RELATION	took	place	entitya	entityb	's	visit	peopl
+NO_RELATION	entitya	novel	entityb
+NO_RELATION	entitya	book	sir	entityb	disingenu	detail	plan
+NO_RELATION	entitya	novel	entityb	adapt
+NO_RELATION	entitya	novel	entityb	first	publish	2007..
+RELATION	luzhin	particip	entitya	led	entityb	categori
+RELATION	sidelin	entitya	access	entityb	becam	part
+NO_RELATION	entitya	histor	novel	entityb	first	publish	america
+NO_RELATION	entitya	papal	encycl	entityb	concern	soviet	invas
+NO_RELATION	entitya	young	adult	novel	entityb	doom	teenag	love
+RELATION	part	entitya	high	king	entityb	curtail	power
+NO_RELATION	entitya	short	stori	entityb	first	publish
+RELATION	4.	first	word	entityb	's	entitya	four	score
+RELATION	time	entityb	's	entitya	emigr	medina
+NO_RELATION	entitya	issu	octob	28,	1956,	encycl	entityb	urg	public	prayer	peac
+NO_RELATION	entitya	novel	entityb	co-written	judith
+NO_RELATION	entitya	novel	entityb	first	publish	red
+RELATION	jump	bastogn	entityb	entitya	last	jump
+RELATION	iii	david	ii	entityb	begin	entitya	scotland	french
+RELATION	abbey	entitya	parliamentarian	entityb	introduc	strongli	protest	regim
+RELATION	turkish	forc	entityb	entitya	lieuten
+NO_RELATION	entitya	children	's	novel	written	illustr	entityb	tell	stori
+RELATION	buckingham	entitya	entityb	took	possess	estat
+RELATION	follow	islam	prophet	entityb	entitya	withdraw	mecca
+NO_RELATION	entitya	children	's	pictur	book	entityb	illustr	scott
+RELATION	hide	place	entitya	entityb	stay	queen	head
+NO_RELATION	entitya	scienc	fiction	novel	written	entityb	publish	1988.
+RELATION	equal	tradit	entityb	's	entitya	martin	luther	king	's
+NO_RELATION	entitya	autobiograph	book	written	entityb	former	staff	writer
+NO_RELATION	entitya	entityb	children	's	book
+RELATION	method	seat	entityb	year	entitya	kept	constant	watch	yinreng
+RELATION	taken	entityb	's	men	entitya	hand
+RELATION	modern	nation	entityb	follow	entitya	u.s.
+NO_RELATION	entitya	novel	entityb	david	copperfield	may	also
+NO_RELATION	entitya	chick	lit	novel	entityb	young	englishwoman
+NO_RELATION	entitya	play	entityb	set
+RELATION	photograph	rais	flag	entityb	entitya	imag
+RELATION	audio	animatron	figur	entityb	actual	stood	deliv	part	entitya	incident
+RELATION	england	entitya	rule	entityb	son	successor
+NO_RELATION	entitya	novel	entityb	first	publish	2007..
+NO_RELATION	entitya	play	written	entityb	misalli	take	place
+RELATION	end	entitya	entityb	medina	622.
+NO_RELATION	entitya	young	adult	novel	written	entityb	publish	razorbil	book
+RELATION	juli	year	entityb	lead	figur	entitya	leader
+NO_RELATION	entitya	short	stori	entityb	first	publish
+NO_RELATION	entitya	music	book	lyric	entityb	music	toni	macaulay
+RELATION	day	estim	entityb	's	flight	entitya	mecca	medina
+NO_RELATION	entitya	book	sir	entityb	disingenu	detail	plan
+NO_RELATION	entitya	play	entityb	examin	life
+RELATION	entitya	entityb	's	forc	took	lead
+NO_RELATION	entitya	first	full	length	play	entityb	ran	off-broadway
+RELATION	possibl	lover	byron	entitya	19th-centuri	speech	entityb	great	fire	london
+RELATION	1980	entityb	's	polici	entitya	glasnost	made	virtual
+RELATION	septemb	entityb	entitya	buri
+NO_RELATION	entitya	historical-fict	book	written	illustr	entityb	publish	scholast	press
+RELATION	copi	entitya	handwritten	entityb	cornel	univers
+RELATION	speech	king	allud	entityb	's	entitya	say	five	score
+RELATION	san	marco	lima	entityb	entitya	pontificia	universidad	del
+RELATION	famou	earli	hudna	entitya	entityb	quraysh	tribe
+RELATION	loui	kossuth	's	word	entityb	's	entitya	eurasian	studi
+RELATION	combin	leinster-vik	forc	entitya	entityb	kill	end
+NO_RELATION	entitya	book	written	entityb	publish
+RELATION	strateg	import	entitya	entityb	went	take
+RELATION	stuart	mortal	wound	entityb	entitya	may	12,	1864..	henrico
+RELATION	mark	begin	entityb	's	public	ministri	entitya	abyssinian	emigr
+NO_RELATION	entitya	play	entityb	take	name
+RELATION	1924.	plaqu	contain	entitya	pictur	entityb	ad	june	8,
+RELATION	speech	homag	entityb	's	entitya	time	correspond
+RELATION	muhammad	's	rel	entityb	muslim	perform	entitya	emigr
+NO_RELATION	entitya	stream	conscious	novel	entityb	first	publish	1997.
+RELATION	descend	tricolon	entityb	use	tricola	mani	speech	entitya	follow	phrase
+NO_RELATION	entitya	novel	entityb	publish	1937.
+RELATION	known	speaker	opposit	entityb	read	entitya	today
+RELATION	novemb	1863,	presid	entityb	deliv	famou	entitya	god	's	acr
+NO_RELATION	entitya	encycl	entityb	crusad	prayer
+RELATION	obama	also	refer	entityb	's	entitya	say
+NO_RELATION	entitya	novel	entityb	publish	1998.
+NO_RELATION	entitya	children	's	pictur	book	entityb	gritch	witch
+NO_RELATION	entitya	poem	entityb	boer	war
+NO_RELATION	entitya	play	entityb	set	dublin
+RELATION	hamza	ibn	al-muttalib	entityb	's	uncl	seven	nine	month	entitya	parti	thirti
+NO_RELATION	entitya	last	longest	novel	author	entityb	publish	1930,
+NO_RELATION	entitya	novel	entityb	david	copperfield	may	also
+RELATION	behalf	bancroft	ask	presid	entityb	copi	entitya	bliss
+RELATION	quraysh	mecca	entitya	628.	record	entityb	told	khalid	's	brother
+RELATION	first	notabl	pictur	entitya	exhibit	1877,	one	depict	entityb	marston	moor
+NO_RELATION	entitya	scienc	fiction	book	written	entityb	first	print	novemb
+RELATION	tank	name	entitya	leader	entityb	first	tank
+RELATION	part	help	entityb	entitya	york	press	guildhal
+RELATION	presid	entityb	's	entitya	name	town
+NO_RELATION	entitya	novel	entityb	mexican	whiteboy	matt
+RELATION	august	entityb	entitya	kingfish	commiss
+NO_RELATION	entitya	novel	entityb	talk	war
+NO_RELATION	entitya	collect	twenti	short	stori	written	entityb	initi	publish
+RELATION	17th	centuri	entitya	former	member	entityb	's	new	model	armi	settl
+NO_RELATION	entitya	novel	entityb	anna	karenina	may	also
+RELATION	parliamentari	caus	entityb	entitya	militari
+RELATION	year	entitya	entityb	mecca	madinah
+RELATION	long	sieg	entityb	entitya	april	2,	1865,	edward
+RELATION	key	particip	entitya	entityb	franci	tresham
+NO_RELATION	entitya	novel	entityb	mexican	whiteboy	matt
+NO_RELATION	entitya	poem	entityb	origin	publish	poem
+RELATION	celebr	125th	anniversari	entityb	's	trip	rout	make	entitya
+NO_RELATION	entitya	stori	entityb	concern	curs	villag
+RELATION	2013-05-15.	quot	presid	entityb	's	entitya	inscrib	stage
+RELATION	outbreak	entitya	nephew	godson	entityb	sent	parliament
+RELATION	five	copi	entityb	's	entitya
+RELATION	citat	entityb	draft	entitya	nicolay	copi	novemb
+NO_RELATION	entitya	comic	novel	entityb	publish	posthum	1985.barbara
+RELATION	vike	defeat	entityb	famou	entitya	1014..	clondalkin	wit	anoth
+NO_RELATION	entitya	's	world	children	's	histori	book	entityb	first	edit
+NO_RELATION	entitya	novel	written	entityb	publish	unit
+RELATION	culmin	entitya	protector	entityb	signific	swing
+RELATION	onset	entitya	entityb	resid	bergtal
+RELATION	establish	site	entityb	's	notabl	entitya	number
+RELATION	independ	near	guantanamo	bay	entityb	entitya	novemb	1962,
+RELATION	daughter	's	recit	entityb	's	entitya	go
+NO_RELATION	entitya	play	written	entityb	first	perform	1993.
+NO_RELATION	entitya	young-adult	fantasi	novel	entityb	base	loos
+NO_RELATION	entitya	play	entityb	de	torquemada
+NO_RELATION	entitya	collect	twenti	short	stori	written	entityb	initi	publish
+RELATION	english	civil	war	entityb	's	rule	entitya	1646,	thoma	fairfax	order
+RELATION	castl	destroy	entityb	's	troop	entitya	1646.	die
+NO_RELATION	entitya	young	adult	novel	entityb	first	publish	2003.
+NO_RELATION	entitya	written	entityb	categori	work
+NO_RELATION	entitya	young	adult	novel	written	entityb	remi
+NO_RELATION	entitya	novel	written	entityb	log	australia
+RELATION	civil	war	union	presid	entityb	deliv	entitya	militari	cemeteri	dedic
+RELATION	2007.	april	2008..	presid	entityb	's	sign	entitya	septemb	17th
+NO_RELATION	entitya	short	stori	entityb	name
+NO_RELATION	entitya	apocalypt	scienc	fiction/horror	novel	entityb	publish
+RELATION	compani	arriv	entityb	entitya	next
+NO_RELATION	entitya	novel	entityb	deal	issu
+RELATION	calendar	commemor	entitya	emigr	entityb	follow
+NO_RELATION	entitya	novel	entityb	first	publish	slovenia
+RELATION	mari	later	support	entityb	's	caus	entitya	sold	land
+NO_RELATION	entitya	play	entityb	mix
+NO_RELATION	entitya	fantasi	comic	book	writer	entityb	pencil	carlo	pacheco
+RELATION	rathbon	eye-wit	entityb	's	entitya	sever	member	rathbon	famili
+RELATION	kill	entityb	entitya	age	42..
+NO_RELATION	entitya	first	play	written	entityb	publish	period
+NO_RELATION	entitya	book	entityb	describ	peopl
+NO_RELATION	entitya	's	world	children	's	histori	book	entityb	first	edit
+RELATION	later	paraphras	entityb	entitya	word	govern
+NO_RELATION	entitya	play	entityb	first	develop	eugen
+NO_RELATION	entitya	last	longest	novel	author	entityb	publish	1930,
+NO_RELATION	entitya	encycl	entityb	1500th	anniversari
+RELATION	known	eye-wit	entityb	's	entitya	10,000
+RELATION	took	photo	entityb	's	entitya	studio	photograph
+RELATION	dead	peloponnesian	war;	entityb	's	entitya	1863,	soon	sojourn
+RELATION	london	entitya	becam	royalist	stronghold	entityb	's	parliamentari	forc	raze
+RELATION	heart	entityb	entitya	1574,	plan
+NO_RELATION	entitya	young	adult	novel	written	entityb	remi
+RELATION	1990,	name	entityb	's	polici	entitya	splash	screen	show
+RELATION	post	entityb	cover	entitya	1990.	one
+NO_RELATION	entitya	tragedi	entityb	coriolanu	may	also	refer
+NO_RELATION	entitya	written	entityb	use	pseudonym	f.	anstey
+NO_RELATION	entitya	last	longest	novel	author	entityb	publish	1930,
+RELATION	final	victori	entityb	entitya	1014,	brian	boroimh
+NO_RELATION	entitya	name	ofempir	star	book	entityb	bsa	empir	star
+RELATION	death	nasser	successor	entityb	sign	entitya	anger	arab
+RELATION	known	entitya	key	organ	entityb	lucretia	coffin	mott
+RELATION	parliamentari	caus	entitya	fell	entityb	interregnum
+RELATION	head-on	photograph	entityb	taken	novemb	8,	1863;	two	week	entitya	file	gardner-photo-lincoln
+NO_RELATION	entitya	apocalypt	scienc	fiction/horror	novel	entityb	publish
+NO_RELATION	entitya	collect	write	entityb	first	publish
+RELATION	knesset	larg	precipit	entityb	's	controversi	decis	sign	entitya	israel-egypt	peac	treati
+RELATION	's	farewel	address	presid	entityb	's	entitya	primari	theme
+RELATION	munden	set	entitya	disillus	offic	plot	assassin	entityb	domin	west
+RELATION	lewi	post	08.19.10.	entitya	16th	centuri	entityb	zealou	puritan
+RELATION	control	popul	entityb	's	invas	entitya	suppress
+RELATION	surround	bastogn	entityb	entitya	particip	airborn
+RELATION	entitya	entityb	howev	address
+RELATION	captur	execut	entitya	puritan-l	parliamentarian	govern	entityb	king	charl	ii
+RELATION	commonwealth	navi	entitya	reward	entityb	estat	ireland
+NO_RELATION	entitya	semi-autobiograph	play	entityb	written
+RELATION	pioneer	around	time	entityb	draft	entitya	weekli	church	attend	averag
+NO_RELATION	entitya	play	entityb	rival	may	also
+RELATION	eritrea	subsequ	annex	entityb	led	entitya	end	eritrean	independ
+NO_RELATION	entitya	novelett	entityb	publish	august
+RELATION	estim	date	entityb	's	flight	entitya	mecca	medina
+NO_RELATION	entitya	young	adult	novel	written	entityb	remi
+NO_RELATION	entitya	novel	entityb	sever	adapt
+RELATION	battl	gettysburg	entityb	's	entitya	gettysburg	nation	cemeteri
+NO_RELATION	entitya	peopl	arm	book	entityb	paz	famou
+NO_RELATION	entitya	short	novel	entityb	billi	budd	also
+RELATION	soviet	commun	anticip	entitya	entityb	morin	marri
+NO_RELATION	entitya	thriller	novel	entityb	sequel
+NO_RELATION	entitya	full	origin	titl	essay	entityb	conjug	lewd
+NO_RELATION	entitya	play	entityb	rival	may	also
+NO_RELATION	entitya	play	four	act	entityb	origin	open
+NO_RELATION	entitya	novel	entityb	mexican	whiteboy	matt
+NO_RELATION	entitya	novel	entityb	publish	1994.	storm	heaven
+NO_RELATION	entitya	novel	entityb	set	new	york
+NO_RELATION	entitya	poem	entityb	written	sever	version
+RELATION	german	offens	entityb	known	entitya	assembl
+NO_RELATION	entitya	novel	entityb	anna	karenina	may	also
+RELATION	mankind	half	entityb	's	entitya	grace	east	side
+NO_RELATION	entitya	semi-autobiograph	play	entityb	written
+NO_RELATION	entitya	music	book	entityb	lyric	rost
+NO_RELATION	entitya	short	novel	novella	written	entityb	first	publish
+NO_RELATION	entitya	novel	entityb	co-written	judith
+NO_RELATION	entitya	book	social	polit	analysi	entityb	didion	begin
+NO_RELATION	entitya	novel	entityb	adapt
+RELATION	famou	quotat	entityb	's	entitya	nation	god
+RELATION	late	13th-	earli	14th-centuri	entityb	entitya	first	appear
+NO_RELATION	entitya	first	novel	written	author	entityb	origin	publish
+RELATION	commun	entityb	sector	entitya	decemb	januari
+RELATION	end	entitya	's	year	entityb	like	predecessor
+NO_RELATION	entitya	tragic	play	entityb	hamlet	may	also
+RELATION	petit	14-year-old	entityb	assum	person	rule	ahead	schedul	thu	entitya	formerli	took	rein
+NO_RELATION	entitya	book	written	entityb	publish
+RELATION	congress	read	entitya	part	commemor	150th	anniversari	entityb	's	birth	march
+RELATION	royalist	entitya	entityb	parliamentarian	murdoch
+RELATION	coldstream	guard	lie	entitya	entityb	gave	colonel	georg	monck	permiss
+NO_RELATION	entitya	novel	entityb	first	publish	slovenia
+RELATION	house2.jpg	jimmi	carter	entityb	shortli	entitya	edit	durova
+NO_RELATION	entitya	short	stori	entityb	first	appear
+NO_RELATION	entitya	novel	entityb	adapt
+RELATION	late	thirteenth	earli	fourteenth-centuri	entityb	entitya	first	appear
+RELATION	tribe	year	entityb	emigr	see	entitya
+NO_RELATION	entitya	play	written	entityb	base	part
+RELATION	becam	subject	bolivia	entityb	entitya	chile	acquir
+NO_RELATION	entitya	short	novel	entityb	billi	budd	also
+RELATION	side	parliament	entitya	colonel	entityb	's	new	model	armi
+NO_RELATION	entitya	historical-fict	book	written	illustr	entityb	publish	scholast	press
+NO_RELATION	entitya	novel	entityb	publish	2005,
+NO_RELATION	entitya	collect	scienc	fiction	short	stori	entityb	first	publish
+NO_RELATION	entitya	novel	entityb	set	new	york
+RELATION	ago	deliv	entityb	entitya	lincoln	address
+RELATION	pulitz	prize	win	book	entityb	's	entitya	compar
+RELATION	empress	xiaoyichun	bore	entityb	four	son	two	daughter	among	children	includ	entitya	's	successor	jiaq
+NO_RELATION	entitya	name	ofempir	star	book	entityb	bsa	empir	star
+NO_RELATION	entitya	novel	written	entityb	first	publish	april	6,
+RELATION	side	entitya	includ	entityb	's	ironsid	cavalri	blackmor
+RELATION	organ	entitya	women	's	right	entityb	seneca	fall
+NO_RELATION	entitya	thriller	novel	entityb	sequel
+NO_RELATION	entitya	novel	entityb	publish	initi	wine
+RELATION	individu	filmmak	entityb	's	polici	entitya	1980	shengelaya
+NO_RELATION	entitya	stori	entityb	concern	curs	villag
+NO_RELATION	entitya	novel	entityb	group
+RELATION	larg	destroy	entityb	's	troop	entitya	ruardean	's	congregationalist
+NO_RELATION	entitya	book	photographi	entityb	jewish	women
+NO_RELATION	entitya	categori	feder	minist	entityb	minist	categori
+RELATION	exampl	accord	presid	entityb	's	entitya	american	civil	war
+RELATION	support	king	charl	entityb	entitya	consequ
+NO_RELATION	entitya	novel	entityb	first	publish
+RELATION	evid	entitya	align	entityb	restor
+NO_RELATION	entitya	dystopian	novel	entityb	publish	1960.
+NO_RELATION	entitya	fantasi	novel	entityb	set	world
+NO_RELATION	entitya	play	entityb	take	name
+RELATION	support	entityb	entitya	king	charl	ii
+RELATION	part	entityb	campaign	entitya	end
+NO_RELATION	entitya	novel	entityb	give	account	thirti
+NO_RELATION	entitya	spi	thriller	novel	author	entityb	publish	warner	book
+RELATION	japanes	forc	entityb	three-day-long	entitya	ship	's	fighter
+NO_RELATION	entitya	collect	twenti	short	stori	written	entityb	initi	publish
+NO_RELATION	entitya	first	novel	written	author	entityb	origin	publish
+RELATION	fought	parliament	entitya	serv	lord	protector	entityb	interregnum
+NO_RELATION	entitya	novel	entityb	first	publish
+RELATION	earth	entityb	entitya	petit
+NO_RELATION	entitya	novel	entityb	isbn	1-896095-95-x
+NO_RELATION	entitya	play	entityb	plot	involv
+RELATION	turbul	period	span	entitya	entityb	's	rule
+RELATION	quaker	hill	newport	entityb	entitya	10th	regiment	serv
+RELATION	washington	's	farewel	address	entityb	's	entitya	fred	harvey	harrington
+NO_RELATION	entitya	novel	entityb	publish
+NO_RELATION	entitya	first	publish	author	entityb	work
+RELATION	help	plan	execut	entitya	riot	1968.	entityb	union	worker
+NO_RELATION	entitya	scienc	fiction	novel	written	entityb	publish	1979.
+RELATION	art	produc	china	entitya	's	reign	entityb	's	abdic	1795,
+RELATION	madison	's	presid	entityb	entitya	novemb	19,	1863,	sum
+NO_RELATION	entitya	play	entityb	first	perform
+RELATION	town	near	santiago	de	entityb	begin	entitya	end
+RELATION	famou	entitya	1014,	entityb	high	king	ireland
+RELATION	50.	entitya	entityb	38.
+RELATION	order	form	entityb	follow	entitya	william	pitt
+RELATION	earth	end	entityb	's	entitya	speak	softli
+RELATION	need	soviet	consum	entityb	entitya	new	york	harper
+RELATION	last	year	entityb	entitya	immigr	mecca
+NO_RELATION	entitya	play	four	act	entityb	origin	open
+NO_RELATION	entitya	novel	entityb	made
+NO_RELATION	entitya	short	stori	entityb	first	publish	us
+NO_RELATION	entitya	children	's	histor	novel	entityb	publish	harper	amp
+NO_RELATION	entitya	novel	entityb	isbn	1-896095-95-x
+NO_RELATION	entitya	collect	scienc	fiction	short	stori	entityb	publish	april	1968.
+NO_RELATION	entitya	blank	vers	tragedi	entityb	first	perform
+NO_RELATION	entitya	young	adult	novel	entityb	first	publish	2003.
+NO_RELATION	entitya	play	entityb	core
+RELATION	pari	1431..	follow	entitya	entityb	declin	crown	underw
+NO_RELATION	entitya	novel	entityb	third	book
+NO_RELATION	entitya	scienc	fiction	novel	written	entityb	publish	1979.
+RELATION	still	respect	entityb	's	soldier	time	entitya	booklet	cromwel	's
+NO_RELATION	entitya	novel	entityb	deal	mani	lesbian-rel
+RELATION	headquart	local	govern	entityb	entitya	1921,	irish	republican
+NO_RELATION	entitya	novel	entityb	set	japan
+RELATION	instruct	write	entitya	peac	treati	entityb	quraysh	628.
+RELATION	effort	entitya	given	entityb	will	lincoln	's
+NO_RELATION	entitya	play	written	entityb	base	part
+NO_RELATION	entitya	first	novel	written	author	entityb	origin	publish
+RELATION	first	line	entitya	famou	speech	deliv	entityb	american	civil	war
+NO_RELATION	entitya	first	publish	author	entityb	work
+NO_RELATION	entitya	categori	feder	minist	entityb	minist	categori
+NO_RELATION	entitya	titl	novel	entityb	patriot	game
+NO_RELATION	entitya	horror	novel	written	entityb	child
+RELATION	soviet	presid	entityb	run	polici	entitya	glasnost	hawk	visit
+RELATION	gettysburg	immort	entityb	's	entitya	phrase	fourscor
+RELATION	will	gettysburg	entityb	put	finish	touch	entitya	compos	washington
+NO_RELATION	entitya	book	contain	collect	illustr	entityb	's	best	comic	paint
+NO_RELATION	entitya	novel	entityb	give	account	thirti
+RELATION	1991,	result	entityb	's	entitya	reform	year
+RELATION	ch	6,	p.	174,	entitya	14th	august	1690,	entityb	grant	fuquan	titl
+NO_RELATION	entitya	book-length	essay	entityb	american	involv	el
+NO_RELATION	entitya	play	entityb	core
+NO_RELATION	entitya	initi	biographi	children	's	book	entityb	life
+NO_RELATION	entitya	play	entityb	set
+RELATION	1648,	entitya	entityb	's	troop	camp	overnight
+NO_RELATION	entitya	scienc	fiction	book	written	entityb	first	print	novemb
+NO_RELATION	entitya	play	entityb	may	also	refer
+NO_RELATION	entitya	multi	act	play	entityb	follow	relationship
+NO_RELATION	entitya	novel	entityb	written	welsh
+RELATION	vol	8.	meet	entityb	i.e.	entitya	muhammad	ibn	ishaq
+RELATION	622,	year	entitya	entityb	emigr	medina
+NO_RELATION	entitya	collect	write	entityb	first	publish
+NO_RELATION	entitya	novel	entityb	origin	publish	instal
+RELATION	meet	entityb	gave	entitya	articl	gettysburg	address
+NO_RELATION	entitya	scienc	fiction/techno-thril	novel	written	entityb	nomin
+NO_RELATION	entitya	novel	entityb	publish
+NO_RELATION	entitya	scienc	fiction	novel	written	entityb	publish	1979.
+NO_RELATION	entitya	short	stori	entityb	first	publish
+NO_RELATION	entitya	scienc	fiction	novel	written	entityb	publish	1988.
+NO_RELATION	entitya	children	's	novel	seri	written	entityb	1828-1909
+NO_RELATION	entitya	novel	entityb	first	publish	1997..
+RELATION	space-tim	visualis	wit	entityb	deliv	entitya	chase	wax
+NO_RELATION	entitya	short	stori	entityb	first	publish
+RELATION	time	occupi	entityb	's	forc	entitya	hospit	open
+NO_RELATION	entitya	book	poetri	publish	poet	entityb	publish	1949,
+RELATION	written	entityb	's	entitya	1987,	express	transit
+NO_RELATION	entitya	poem	entityb	's	song	innoc
+RELATION	refer	entityb	's	entitya	four	score
+RELATION	titl	drawn	entitya	presid	entityb
+NO_RELATION	entitya	book	written	entityb	publish
+RELATION	result	entitya	negoti	entityb	leader	herut
+RELATION	entitya	entityb	spoke	three	featur
+NO_RELATION	entitya	book	social	polit	analysi	entityb	didion	begin
+RELATION	user	entitya	emperor6868	user	talk	contrib	page	entityb	diff	undo
+NO_RELATION	entitya	debut	novel	entityb	publish	1995.
+RELATION	high	king	ireland	entityb	entitya	1014.	tadhg	mor
+NO_RELATION	entitya	collect	short	scienc	fiction	stori	entityb	lumin	contain
+RELATION	month	entitya	entityb	's	migrat	medina
+NO_RELATION	entitya	's	world	children	's	histori	book	entityb	first	edit
+RELATION	tribe	join	entityb	entitya	migrat	medina
+RELATION	battl	entitya	august	1648,	entityb	defeat	mainli	scottish	royalist
+NO_RELATION	entitya	semi-autobiograph	play	entityb	written
+NO_RELATION	entitya	horror	novel	entityb	novel	nomin
+RELATION	rabbit	entitya	entityb	israel	anwar
+RELATION	nation	cemeteri	heard	entityb	's	entitya	close	friend
+NO_RELATION	entitya	dystopian	novel	entityb	publish	1960.
+RELATION	ansar	helper	entityb	entitya	aw	khazraj
+RELATION	found	lucretia	mott	entityb	organ	entitya	publish
+RELATION	u.s.	postag	stamp	commemor	entitya	titl	year	progress	women	entityb	left	stanton
+NO_RELATION	entitya	scienc	fiction	novel	written	entityb	publish	1988.
+NO_RELATION	entitya	novel	entityb	author
+RELATION	kill	entitya	includ	son	grandson	entityb	time	becam
+NO_RELATION	entitya	novel	entityb	elmer	gantri	may	also
+RELATION	veracruz	entityb	conclud	entitya	spain
+NO_RELATION	entitya	young	adult	novel	entityb	tell	stori
+NO_RELATION	entitya	scienc	fiction	film	entityb	westworld	may	also	refer
+NO_RELATION	entitya	poem	entityb	's	song	innoc
+RELATION	ireton	serv	entityb	entitya	also	cromwel
+RELATION	base	life	entityb	led	parliamentari	forc	entitya	lord	protector
+NO_RELATION	entitya	novel	entityb	publish
+RELATION	name	date	back	entitya	specif	associ	entityb	's	sieg	winchest
+NO_RELATION	entitya	secret	life	book	entityb	tell	stori
+RELATION	billet	entitya	entityb	visit	discuss
+NO_RELATION	entitya	poem	entityb	written	1985.	poem
+NO_RELATION	entitya	blank	vers	tragedi	entityb	first	perform
+RELATION	day	entitya	former	member	entityb	's	new	model	armi	still
+RELATION	japanes	forc	entityb	three-day-long	entitya	ship
+RELATION	fifth	final	manuscript	entityb	's	entitya	own
+RELATION	nation	cemeteri	wit	presid	entityb	's	entitya	recreat	role
+NO_RELATION	entitya	novel	entityb
+RELATION	display	relat	entitya	includ	death	mask	entityb	18th
+RELATION	year	age	entitya	entityb	also	scenic
+NO_RELATION	entitya	play	two	act	written	entityb	star	flora	robson
+RELATION	start	year	entityb	's	emigr	entitya	ad
+NO_RELATION	entitya	tragedi	entityb	coriolanu	may	also	refer
+RELATION	parliament	entitya	reward	entityb	estat	ireland
+RELATION	hand	three	time	entitya	entityb	pass	way
+RELATION	mediev	crown	destroy	entityb	's	order	entitya	follow	restor
+RELATION	may	refer	entitya	islam	migrat	entityb	follow
+NO_RELATION	entitya	modernist	short	stori	entityb	first	publish	1918.
+RELATION	british	burn	entityb	hous	entitya	educ
+NO_RELATION	entitya	book	entityb	first	publish	methuen
+NO_RELATION	entitya	children	's	pictur	book	entityb	gritch	witch
+NO_RELATION	entitya	superhero	novel	entityb	second
+RELATION	ampndash;	black	milit	led	entityb	engag	fierc	gunfight	polic	entitya	cleveland	ohio
+NO_RELATION	entitya	novelett	entityb	publish	august
+RELATION	seventh	son	entityb	second	eldest	entitya	's	son	surviv
+RELATION	cemeteri	gettysburg;	speak	entityb	's	famou	entitya	lincoln	's	gettysburg	address
+RELATION	ibn	al-khattab	spoken	entityb	occas	includ	entitya	first
+RELATION	follow	hegira	entitya	entityb	ad
+RELATION	base	friendli	entityb	's	roundhead	entitya	splinter	cultur
+NO_RELATION	entitya	collect	entityb	compris	four	novella
+RELATION	624,	month	entitya	entityb	's	migrat	medina
+RELATION	royalist	entitya	eventu	fall	parliamentarian	1646.	entityb	order	castl	's
+RELATION	site	entitya	earli	influenti	women	's	right	convent	entityb	demand	right	women
+RELATION	within	first	centuri	entitya	see	also	list	biographi	entityb	furthermor
+NO_RELATION	entitya	play	entityb	first	present
+RELATION	time	entitya	fought	entityb	1655..
+NO_RELATION	entitya	novel	author	entityb	book	center	around
+RELATION	famou	quot	entityb	's	entitya	govern
+RELATION	reput	kill	entityb	entitya	descript	catalogu
+RELATION	greek	french	armi	occupi	entityb	entitya	becam	turkey	's
+RELATION	import	part	entitya	base	oper	entityb	reput
+RELATION	land	near	entityb	entitya	overcam
+NO_RELATION	entitya	young	adult	novel	entityb	first	publish	2003.
+NO_RELATION	entitya	novel	written	entityb	usual	categoris
+RELATION	help	unload	entityb	entitya	allow	mount
+NO_RELATION	entitya	short	stori	entityb	first	publish
+NO_RELATION	entitya	good	bad	book	essay	entityb	first	publish	tribun
+NO_RELATION	entitya	play	entityb	may	also	refer
+NO_RELATION	entitya	collect	write	entityb	first	publish
+RELATION	formul	presid	entityb	entitya	america	nation
+RELATION	abdel	nasser	criticis	entitya	entityb	egypt	state
+NO_RELATION	entitya	entityb	second	book
+NO_RELATION	entitya	stage	play	entityb	premier	victori
+RELATION	savo	island	entityb	entitya	ruchamkin	award
+RELATION	theme	entityb	entitya	theodor	roosevelt
+RELATION	grant	's	overland	campaign	entityb	entitya	first	week
+NO_RELATION	entitya	short	play	entityb	adapt	short
+NO_RELATION	entitya	short	stori	entityb	first	publish
+RELATION	1979,	likud	prime	minist	entityb	sign	entitya	egyptian	presid	anwar	al-sadat
+NO_RELATION	entitya	stori	entityb	concern	curs	villag
+NO_RELATION	entitya	play	entityb	set	dublin
+RELATION	categori	start	entitya	entityb	's	departur	mecca
+NO_RELATION	entitya	novel	written	entityb	set
+RELATION	cavalri	attack	black	kettl	's	entityb	villag	entitya	novemb	1868.	jacob
+RELATION	two	hoursimmedi	presid	entityb	deliv	famou	two-minut	entitya	son
+RELATION	apart	1887,	entityb	leader	entitya	explor	ruin
+NO_RELATION	entitya	children	's	novel	seri	written	entityb	1828-1909
+RELATION	color	pic	entityb	start	entitya	often	refer
+RELATION	spanish	viceroyalti	entityb	follow	entitya	becam	capit
+NO_RELATION	entitya	novel	entityb	hard	time	may	also
+RELATION	150th	anniversari	entityb	's	entitya	patriot-new	retract
+NO_RELATION	entitya	play	entityb	seriocom	treatment
+RELATION	islam	join	entityb	entitya	particip	variou	expedit
+RELATION	mother	's	land	near	entityb	entitya	overcam
+NO_RELATION	entitya	collect	short	scienc	fiction	stori	entityb	lumin	contain
+RELATION	disestablish	protest	church	entitya	entityb	best	known	close
+RELATION	later	influenc	word	entityb	's	entitya	parker	might
+RELATION	garden	later	entityb	entitya	award
+NO_RELATION	entitya	histor	novel	entityb	first	publish	america
+RELATION	1979,	anwar	sadat	entityb	sign	entitya	gave	back
+NO_RELATION	entitya	scienc	fiction/thril	novel	entityb	novel	concern
+NO_RELATION	entitya	novel	entityb	mexican	whiteboy	matt
+RELATION	charl	entitya	attach	entityb	whose	niec	marri
+RELATION	companion	prophet	entityb	year	entitya	came	back
+RELATION	4th	high	steward	entityb	entitya	locat	contest
+RELATION	victori	parliamentarian	troop	entityb	entitya	sir	edmund	fortescu
+NO_RELATION	entitya	fantasi	comic	book	writer	entityb	pencil	carlo	pacheco
+NO_RELATION	entitya	novel	written	entityb	set
+NO_RELATION	entitya	novel	entityb	publish	1937.
+NO_RELATION	entitya	novel	entityb	publish
