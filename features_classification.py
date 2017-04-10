@@ -7,7 +7,7 @@ sys.path.append("./packages")
 import matplotlib
 import datetime
 import numpy as np
-import dpt
+import data_preparation_tool as dpt
 import features_generation_tool as fgt
 from sklearn.linear_model import LogisticRegression
 from sklearn.linear_model import LogisticRegressionCV
